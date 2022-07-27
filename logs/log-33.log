@@ -1,0 +1,60 @@
+[92m2022-07-22 04:44:17 I/main: Starting mirai-console...[0m[m
+[92m2022-07-22 04:44:17 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-22 04:44:17 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-22 04:44:17 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-22 04:44:17 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-22 04:44:17 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-22 04:44:17 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-22 04:44:17 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-22 04:44:17 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-22 04:44:17 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-22 04:44:17 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-22 04:44:17 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-22 04:44:17 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-22 04:44:17 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-22 04:44:18 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-22 04:44:19 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-22 04:44:19 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-22 04:44:19 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-22 04:44:19 I/Bot.2452548710: Bot login successful.[0m[m
+[92m2022-07-22 04:44:28 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-22 04:44:28 I/BlackJack: 川流不息want to duel and there are vally 299372193has 0 person[0m[m
+[0m2022-07-22 04:44:28 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> duel[0m[m
+[92m2022-07-22 04:45:25 I/BlackJack: get input[0m[m
+[0m2022-07-22 04:45:25 V/Bot.2452548710: 小屿(3511809239) -> duel[0m[m
+[92m2022-07-22 04:45:38 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-22 04:45:38 I/BlackJack: 小屿want to duel[0m[m
+[92m2022-07-22 04:45:38 I/BlackJack: two peoples , game start[0m[m
+[0m2022-07-22 04:45:38 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> duel[0m[m
+[0m2022-07-22 04:45:38 V/Bot.2452548710: Friend(1144786189) <- 先手玩家，领先三分获胜[0m[m
+[0m2022-07-22 04:45:39 V/Bot.2452548710: Friend(1144786189) <- 操作：hit 拿牌；stand 停牌；double 翻倍停叫[0m[m
+[0m2022-07-22 04:45:39 V/Bot.2452548710: Friend(3511809239) <- 后手玩家，领先三分获胜[0m[m
+[0m2022-07-22 04:45:39 V/Bot.2452548710: Friend(3511809239) <- 操作：hit 拿牌；stand 停牌；double 翻倍停叫[0m[m
+[0m2022-07-22 04:45:40 V/Bot.2452548710: Group(299372193) <- 新的回合开始了[0m[m
+[0m2022-07-22 04:45:40 V/Bot.2452548710: Friend(1144786189) <- 回合开始[0m[m
+[0m2022-07-22 04:45:41 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{3CF11D26-9BA2-D37F-060A-B1B308DE541D}.png][mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][0m[m
+[0m2022-07-22 04:45:42 V/Bot.2452548710: Group(299372193) <- 川流不息明牌：[mirai:image:{3CF11D26-9BA2-D37F-060A-B1B308DE541D}.png][0m[m
+[0m2022-07-22 04:45:42 V/Bot.2452548710: Friend(3511809239) <- 回合开始[0m[m
+[0m2022-07-22 04:45:43 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][mirai:image:{7CC9F6E5-2F1C-479F-1E71-0EDCBFFAC6D1}.png][0m[m
+[0m2022-07-22 04:45:44 V/Bot.2452548710: Group(299372193) <- 小屿明牌：[mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][0m[m
+[92m2022-07-22 04:45:55 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:45:55 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> hit[0m[m
+[0m2022-07-22 04:45:55 V/Bot.2452548710: Group(299372193) <- 川流不息叫牌[0m[m
+[0m2022-07-22 04:45:56 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{2DE368B6-A7D9-49B4-D96B-EA28A51D755E}.png][0m[m
+[31m2022-07-22 04:45:57 E/BlackJack: Exception in coroutine Plugin com.yu.plugins.BlackJackDuel of BlackJack
+java.lang.IndexOutOfBoundsException: index: 3, size: 3
+	at kotlin.collections.AbstractList$Companion.checkElementIndex$kotlin_stdlib(AbstractList.kt:108)
+	at kotlin.collections.ArrayDeque.get(ArrayDeque.kt:357)
+	at com.yu.plugs.PluginMain.onEnable$show_SettleSubGame(PluginMain.kt:305)
+	at com.yu.plugs.PluginMain.access$onEnable$show_SettleSubGame(PluginMain.kt:38)
+	at com.yu.plugs.PluginMain$onEnable$show_SettleSubGame$1.invokeSuspend(PluginMain.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+[0m[m

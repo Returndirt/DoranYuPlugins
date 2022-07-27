@@ -1,0 +1,58 @@
+[92m2022-07-20 16:28:33 I/main: Starting mirai-console...[0m[m
+[92m2022-07-20 16:28:33 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-20 16:28:33 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-20 16:28:33 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-20 16:28:33 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-20 16:28:33 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-20 16:28:33 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-20 16:28:33 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-20 16:28:33 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-20 16:28:33 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-20 16:28:33 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-20 16:28:33 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-20 16:28:33 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-20 16:28:33 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-20 16:28:35 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-20 16:28:35 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-20 16:28:35 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-20 16:28:36 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-20 16:28:36 I/Bot.2452548710: Bot login successful.[0m[m
+[92m2022-07-20 16:29:34 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-20 16:29:34 I/BlackJack: 川流不息want to duel and there are vally 299372193has 0 person[0m[m
+[0m2022-07-20 16:29:34 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> duel[0m[m
+[92m2022-07-20 16:29:47 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-20 16:29:47 I/BlackJack: 川流不息want to duel[0m[m
+[0m2022-07-20 16:29:47 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> duel[0m[m
+[92m2022-07-20 16:30:07 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-20 16:30:07 I/BlackJack: 小屿want to duel[0m[m
+[92m2022-07-20 16:30:07 I/BlackJack: two peoples , game start[0m[m
+[0m2022-07-20 16:30:07 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> duel[0m[m
+[0m2022-07-20 16:30:08 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][mirai:image:{F32ECAEF-3070-5380-8C87-07EF02AE7DFD}.png][0m[m
+[0m2022-07-20 16:30:09 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][mirai:image:{54E34E59-153A-24CD-03C5-12D0436B84F7}.png][0m[m
+[0m2022-07-20 16:30:09 V/Bot.2452548710: Friend(1144786189) <- 操作：hit 拿牌；stand 停牌；double 翻倍停叫[0m[m
+[0m2022-07-20 16:30:09 V/Bot.2452548710: Friend(1144786189) <- 你是后手，在领先对手三分或三分以上以上时获胜[0m[m
+[0m2022-07-20 16:30:10 V/Bot.2452548710: Friend(3511809239) <- 操作：hit 拿牌；stand 停牌；double 翻倍停叫[0m[m
+[0m2022-07-20 16:30:10 V/Bot.2452548710: Friend(3511809239) <- 你是先手，在领先对手三分或三分以上以上时获胜[0m[m
+[0m2022-07-20 16:30:11 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][mirai:image:{F32ECAEF-3070-5380-8C87-07EF02AE7DFD}.png][0m[m
+[0m2022-07-20 16:30:12 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][mirai:image:{54E34E59-153A-24CD-03C5-12D0436B84F7}.png][0m[m
+[0m2022-07-20 16:30:13 V/Bot.2452548710: Group(299372193) <- 川流不息明牌：[mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][0m[m
+[0m2022-07-20 16:30:14 V/Bot.2452548710: Group(299372193) <- 小屿明牌：[mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][0m[m
+[92m2022-07-20 16:30:24 I/BlackJack: get message ,and is dueling now[0m[m
+[92m2022-07-20 16:30:24 I/BlackJack: dueling and sender is P2[0m[m
+[92m2022-07-20 16:30:24 I/BlackJack: we are here waiting for player2[0m[m
+[92m2022-07-20 16:30:24 I/BlackJack: get hit info[0m[m
+[0m2022-07-20 16:30:24 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> hit[0m[m
+[0m2022-07-20 16:30:24 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{2AA3079E-847A-0C1A-6692-5E8DF0B6F50A}.png][0m[m
+[0m2022-07-20 16:30:28 V/Bot.2452548710: Group(299372193) <- 川流不息got[mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][mirai:image:{F32ECAEF-3070-5380-8C87-07EF02AE7DFD}.png][mirai:image:{0DD862B1-16E7-D95B-300C-503C28B3CF81}.png][mirai:image:{D09F5B86-AAE1-9868-9876-DE82810FA6E4}.png][0m[m
+[0m2022-07-20 16:30:29 V/Bot.2452548710: Group(299372193) <- 小屿got[mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][mirai:image:{54E34E59-153A-24CD-03C5-12D0436B84F7}.png][mirai:image:{40393EF3-E199-9FBA-8543-0A522260939B}.png][mirai:image:{F02F4AFB-0E09-79CA-E77A-FFA274BAA4A2}.png][mirai:image:{2AA3079E-847A-0C1A-6692-5E8DF0B6F50A}.png][0m[m
+[0m2022-07-20 16:30:29 V/Bot.2452548710: Group(299372193) <- 川流不息拿下了1分[0m[m
+[0m2022-07-20 16:30:31 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{D6576507-8B82-7B6B-3E0C-787246AA3691}.png][mirai:image:{B4E8889C-82DA-504C-BD1C-CC8479DF5C9D}.png][0m[m
+[0m2022-07-20 16:30:32 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{76FD2EA6-7583-EA0D-E90C-3D9115816591}.png][mirai:image:{D72D5F38-A539-DDB2-4282-78F61FED1382}.png][0m[m
+[92m2022-07-20 16:30:58 I/BlackJack: get message ,and is dueling now[0m[m
+[92m2022-07-20 16:30:58 I/BlackJack: dueling and sender is P2[0m[m
+[0m2022-07-20 16:30:58 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> hit[0m[m
+[92m2022-07-20 16:31:11 I/BlackJack: get message ,and is dueling now[0m[m
+[92m2022-07-20 16:31:11 I/BlackJack: dueling and sender is P1[0m[m
+[92m2022-07-20 16:31:11 I/BlackJack: we are here waiting for player1[0m[m
+[0m2022-07-20 16:31:11 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> hit[0m[m
+[0m2022-07-20 16:31:11 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{BCA115D3-330B-C1F5-C110-03E254C361E2}.png][0m[m

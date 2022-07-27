@@ -1,0 +1,134 @@
+[92m2022-07-22 04:47:01 I/main: Starting mirai-console...[0m[m
+[92m2022-07-22 04:47:01 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-22 04:47:01 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-22 04:47:01 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-22 04:47:01 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-22 04:47:01 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-22 04:47:01 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-22 04:47:01 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-22 04:47:02 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-22 04:47:02 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-22 04:47:02 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-22 04:47:02 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-22 04:47:02 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-22 04:47:02 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-22 04:47:03 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-22 04:47:03 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-22 04:47:03 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-22 04:47:04 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-22 04:47:04 I/Bot.2452548710: Bot login successful.[0m[m
+[92m2022-07-22 04:47:32 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-22 04:47:32 I/BlackJack: 川流不息want to duel and there are vally 299372193has 0 person[0m[m
+[0m2022-07-22 04:47:32 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> duel[0m[m
+[92m2022-07-22 04:47:41 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-22 04:47:41 I/BlackJack: 小屿want to duel[0m[m
+[92m2022-07-22 04:47:41 I/BlackJack: two peoples , game start[0m[m
+[0m2022-07-22 04:47:41 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> duel[0m[m
+[0m2022-07-22 04:47:41 V/Bot.2452548710: Friend(1144786189) <- 先手玩家，领先三分获胜[0m[m
+[0m2022-07-22 04:47:41 V/Bot.2452548710: Friend(1144786189) <- 操作：hit 拿牌；stand 停牌；double 翻倍停叫[0m[m
+[0m2022-07-22 04:47:41 V/Bot.2452548710: Friend(3511809239) <- 后手玩家，领先三分获胜[0m[m
+[0m2022-07-22 04:47:42 V/Bot.2452548710: Friend(3511809239) <- 操作：hit 拿牌；stand 停牌；double 翻倍停叫[0m[m
+[0m2022-07-22 04:47:42 V/Bot.2452548710: Group(299372193) <- 新的回合开始了[0m[m
+[0m2022-07-22 04:47:42 V/Bot.2452548710: Friend(1144786189) <- 回合开始[0m[m
+[0m2022-07-22 04:47:43 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{0DD862B1-16E7-D95B-300C-503C28B3CF81}.png][mirai:image:{607083D6-2EDD-2587-248A-D91ACFAB9637}.png][0m[m
+[0m2022-07-22 04:47:44 V/Bot.2452548710: Group(299372193) <- 川流不息明牌：[mirai:image:{0DD862B1-16E7-D95B-300C-503C28B3CF81}.png][0m[m
+[0m2022-07-22 04:47:44 V/Bot.2452548710: Friend(3511809239) <- 回合开始[0m[m
+[0m2022-07-22 04:47:45 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{BDE745E1-9E85-2D0D-0C0C-ED3497D915D7}.png][mirai:image:{AAB85D40-6E72-F663-3911-1FE4A6961946}.png][0m[m
+[0m2022-07-22 04:47:46 V/Bot.2452548710: Group(299372193) <- 小屿明牌：[mirai:image:{BDE745E1-9E85-2D0D-0C0C-ED3497D915D7}.png][0m[m
+[92m2022-07-22 04:47:55 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:47:55 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> stand[0m[m
+[0m2022-07-22 04:47:55 V/Bot.2452548710: Group(299372193) <- 川流不息停叫[0m[m
+[92m2022-07-22 04:48:03 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:48:03 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> hit[0m[m
+[0m2022-07-22 04:48:03 V/Bot.2452548710: Group(299372193) <- 小屿叫牌[0m[m
+[0m2022-07-22 04:48:04 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{BDE745E1-9E85-2D0D-0C0C-ED3497D915D7}.png][0m[m
+[92m2022-07-22 04:48:23 I/BlackJack: get input[0m[m
+[0m2022-07-22 04:48:23 V/Bot.2452548710: 小屿(3511809239) -> stand[0m[m
+[92m2022-07-22 04:48:29 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:48:29 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> stand[0m[m
+[92m2022-07-22 04:48:36 I/BlackJack: get input[0m[m
+[0m2022-07-22 04:48:36 V/Bot.2452548710: 小屿(3511809239) -> stand[0m[m
+[92m2022-07-22 04:49:33 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:49:33 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> stand[0m[m
+[0m2022-07-22 04:49:34 V/Bot.2452548710: Group(299372193) <- 小屿停叫[0m[m
+[0m2022-07-22 04:49:35 V/Bot.2452548710: Group(299372193) <- 川流不息本轮得牌：[mirai:image:{0DD862B1-16E7-D95B-300C-503C28B3CF81}.png][mirai:image:{607083D6-2EDD-2587-248A-D91ACFAB9637}.png][0m[m
+[0m2022-07-22 04:49:36 V/Bot.2452548710: Group(299372193) <- 小屿本轮得牌：[mirai:image:{BDE745E1-9E85-2D0D-0C0C-ED3497D915D7}.png][mirai:image:{AAB85D40-6E72-F663-3911-1FE4A6961946}.png][mirai:image:{BDE745E1-9E85-2D0D-0C0C-ED3497D915D7}.png][0m[m
+[0m2022-07-22 04:49:37 V/Bot.2452548710: Group(299372193) <- 川流不息拿下一轮，获得了1分[0m[m
+[0m2022-07-22 04:49:37 V/Bot.2452548710: Group(299372193) <- 新的回合开始了[0m[m
+[0m2022-07-22 04:49:37 V/Bot.2452548710: Friend(1144786189) <- 回合开始[0m[m
+[0m2022-07-22 04:49:38 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{F584F61B-B495-073E-8937-D976FFBAA18F}.png][mirai:image:{CDDD7B0D-17CF-02E8-6790-F5378386375E}.png][0m[m
+[0m2022-07-22 04:49:39 V/Bot.2452548710: Group(299372193) <- 川流不息明牌：[mirai:image:{F584F61B-B495-073E-8937-D976FFBAA18F}.png][0m[m
+[0m2022-07-22 04:49:39 V/Bot.2452548710: Friend(3511809239) <- 回合开始[0m[m
+[0m2022-07-22 04:49:40 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{3CF11D26-9BA2-D37F-060A-B1B308DE541D}.png][mirai:image:{AAB85D40-6E72-F663-3911-1FE4A6961946}.png][0m[m
+[0m2022-07-22 04:49:41 V/Bot.2452548710: Group(299372193) <- 小屿明牌：[mirai:image:{3CF11D26-9BA2-D37F-060A-B1B308DE541D}.png][0m[m
+[92m2022-07-22 04:50:07 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:50:07 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> double[0m[m
+[0m2022-07-22 04:50:07 V/Bot.2452548710: Group(299372193) <- 川流不息翻倍停叫，本回合得分翻倍了[0m[m
+[0m2022-07-22 04:50:08 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{ACBA6615-5A0D-2886-8806-A3069989E4AA}.png][0m[m
+[0m2022-07-22 04:50:09 V/Bot.2452548710: Group(299372193) <- 川流不息本轮得牌：[mirai:image:{F584F61B-B495-073E-8937-D976FFBAA18F}.png][mirai:image:{CDDD7B0D-17CF-02E8-6790-F5378386375E}.png][mirai:image:{ACBA6615-5A0D-2886-8806-A3069989E4AA}.png][0m[m
+[0m2022-07-22 04:50:10 V/Bot.2452548710: Group(299372193) <- 小屿本轮得牌：[mirai:image:{3CF11D26-9BA2-D37F-060A-B1B308DE541D}.png][mirai:image:{AAB85D40-6E72-F663-3911-1FE4A6961946}.png][0m[m
+[0m2022-07-22 04:50:11 V/Bot.2452548710: Group(299372193) <- 小屿拿下一轮，获得了2分[0m[m
+[0m2022-07-22 04:50:11 V/Bot.2452548710: Group(299372193) <- 新的回合开始了[0m[m
+[0m2022-07-22 04:50:11 V/Bot.2452548710: Friend(1144786189) <- 回合开始[0m[m
+[0m2022-07-22 04:50:13 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{69E02070-7CC6-7FCE-A55B-D3D249A21B98}.png][mirai:image:{59369DD4-D791-FE45-8B38-A4B04BEC4C77}.png][0m[m
+[0m2022-07-22 04:50:14 V/Bot.2452548710: Group(299372193) <- 川流不息明牌：[mirai:image:{69E02070-7CC6-7FCE-A55B-D3D249A21B98}.png][0m[m
+[0m2022-07-22 04:50:14 V/Bot.2452548710: Friend(3511809239) <- 回合开始[0m[m
+[0m2022-07-22 04:50:15 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{8066512C-EC1E-AD07-0725-93B0F3C187EB}.png][mirai:image:{69E02070-7CC6-7FCE-A55B-D3D249A21B98}.png][0m[m
+[0m2022-07-22 04:50:16 V/Bot.2452548710: Group(299372193) <- 小屿明牌：[mirai:image:{8066512C-EC1E-AD07-0725-93B0F3C187EB}.png][0m[m
+[92m2022-07-22 04:50:20 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:50:20 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> double[0m[m
+[0m2022-07-22 04:50:21 V/Bot.2452548710: Group(299372193) <- 川流不息翻倍停叫，本回合得分翻倍了[0m[m
+[0m2022-07-22 04:50:21 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][0m[m
+[92m2022-07-22 04:50:38 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:50:38 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> hit[0m[m
+[0m2022-07-22 04:50:39 V/Bot.2452548710: Group(299372193) <- 小屿叫牌[0m[m
+[0m2022-07-22 04:50:40 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{AAB85D40-6E72-F663-3911-1FE4A6961946}.png][0m[m
+[92m2022-07-22 04:50:50 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:50:50 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> stand[0m[m
+[0m2022-07-22 04:50:50 V/Bot.2452548710: Group(299372193) <- 小屿停叫[0m[m
+[0m2022-07-22 04:50:52 V/Bot.2452548710: Group(299372193) <- 川流不息本轮得牌：[mirai:image:{69E02070-7CC6-7FCE-A55B-D3D249A21B98}.png][mirai:image:{59369DD4-D791-FE45-8B38-A4B04BEC4C77}.png][mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][0m[m
+[0m2022-07-22 04:50:53 V/Bot.2452548710: Group(299372193) <- 小屿本轮得牌：[mirai:image:{8066512C-EC1E-AD07-0725-93B0F3C187EB}.png][mirai:image:{69E02070-7CC6-7FCE-A55B-D3D249A21B98}.png][mirai:image:{AAB85D40-6E72-F663-3911-1FE4A6961946}.png][0m[m
+[0m2022-07-22 04:50:54 V/Bot.2452548710: Group(299372193) <- 新的回合开始了[0m[m
+[0m2022-07-22 04:50:54 V/Bot.2452548710: Friend(1144786189) <- 回合开始[0m[m
+[0m2022-07-22 04:50:55 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][mirai:image:{607083D6-2EDD-2587-248A-D91ACFAB9637}.png][0m[m
+[0m2022-07-22 04:50:56 V/Bot.2452548710: Group(299372193) <- 川流不息明牌：[mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][0m[m
+[0m2022-07-22 04:50:56 V/Bot.2452548710: Friend(3511809239) <- 回合开始[0m[m
+[0m2022-07-22 04:50:57 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{48F7E939-A4BF-4AE6-1123-7AE188A9F727}.png][mirai:image:{D6576507-8B82-7B6B-3E0C-787246AA3691}.png][0m[m
+[0m2022-07-22 04:50:58 V/Bot.2452548710: Group(299372193) <- 小屿明牌：[mirai:image:{48F7E939-A4BF-4AE6-1123-7AE188A9F727}.png][0m[m
+[92m2022-07-22 04:52:49 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:52:49 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> stand[0m[m
+[0m2022-07-22 04:52:49 V/Bot.2452548710: Group(299372193) <- 川流不息停叫[0m[m
+[92m2022-07-22 04:52:55 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:52:55 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> hit[0m[m
+[0m2022-07-22 04:52:56 V/Bot.2452548710: Group(299372193) <- 小屿叫牌[0m[m
+[0m2022-07-22 04:52:56 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{59369DD4-D791-FE45-8B38-A4B04BEC4C77}.png][0m[m
+[92m2022-07-22 04:53:15 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:53:15 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> stand[0m[m
+[0m2022-07-22 04:53:15 V/Bot.2452548710: Group(299372193) <- 小屿停叫[0m[m
+[0m2022-07-22 04:53:16 V/Bot.2452548710: Group(299372193) <- 川流不息本轮得牌：[mirai:image:{3BDA4633-7018-5116-13BC-5D776726C353}.png][mirai:image:{607083D6-2EDD-2587-248A-D91ACFAB9637}.png][0m[m
+[0m2022-07-22 04:53:17 V/Bot.2452548710: Group(299372193) <- 小屿本轮得牌：[mirai:image:{48F7E939-A4BF-4AE6-1123-7AE188A9F727}.png][mirai:image:{D6576507-8B82-7B6B-3E0C-787246AA3691}.png][mirai:image:{59369DD4-D791-FE45-8B38-A4B04BEC4C77}.png][0m[m
+[0m2022-07-22 04:53:18 V/Bot.2452548710: Group(299372193) <- 小屿拿下一轮，获得了1分[0m[m
+[0m2022-07-22 04:53:18 V/Bot.2452548710: Group(299372193) <- 新的回合开始了[0m[m
+[0m2022-07-22 04:53:18 V/Bot.2452548710: Friend(1144786189) <- 回合开始[0m[m
+[0m2022-07-22 04:53:19 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{2B1A0183-4F7E-B160-E212-EF49902B0744}.png][mirai:image:{2552D5CC-36F5-2903-0FF0-5E27274450B0}.png][0m[m
+[0m2022-07-22 04:53:20 V/Bot.2452548710: Group(299372193) <- 川流不息明牌：[mirai:image:{2B1A0183-4F7E-B160-E212-EF49902B0744}.png][0m[m
+[0m2022-07-22 04:53:21 V/Bot.2452548710: Friend(3511809239) <- 回合开始[0m[m
+[0m2022-07-22 04:53:22 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{D6576507-8B82-7B6B-3E0C-787246AA3691}.png][mirai:image:{2552D5CC-36F5-2903-0FF0-5E27274450B0}.png][0m[m
+[0m2022-07-22 04:53:23 V/Bot.2452548710: Group(299372193) <- 小屿明牌：[mirai:image:{D6576507-8B82-7B6B-3E0C-787246AA3691}.png][0m[m
+[92m2022-07-22 04:53:51 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:53:51 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> hit[0m[m
+[0m2022-07-22 04:53:51 V/Bot.2452548710: Group(299372193) <- 川流不息叫牌[0m[m
+[0m2022-07-22 04:53:52 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{AABD0306-D3D8-882F-2E01-DB7111FB86A5}.png][0m[m
+[92m2022-07-22 04:54:37 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:54:37 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> stand[0m[m
+[0m2022-07-22 04:54:38 V/Bot.2452548710: Group(299372193) <- 小屿停叫[0m[m
+[92m2022-07-22 04:54:43 I/BlackJack: get message ,and is dueling now[0m[m
+[0m2022-07-22 04:54:43 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> hit[0m[m
+[0m2022-07-22 04:54:43 V/Bot.2452548710: Group(299372193) <- 川流不息叫牌[0m[m
+[0m2022-07-22 04:54:44 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{46966FEC-A3EC-4EAC-0A03-61A00D1D8541}.png][0m[m
+[0m2022-07-22 04:54:45 V/Bot.2452548710: Group(299372193) <- 川流不息本轮得牌：[mirai:image:{2B1A0183-4F7E-B160-E212-EF49902B0744}.png][mirai:image:{2552D5CC-36F5-2903-0FF0-5E27274450B0}.png][mirai:image:{AABD0306-D3D8-882F-2E01-DB7111FB86A5}.png][mirai:image:{46966FEC-A3EC-4EAC-0A03-61A00D1D8541}.png][0m[m
+[0m2022-07-22 04:54:46 V/Bot.2452548710: Group(299372193) <- 小屿本轮得牌：[mirai:image:{D6576507-8B82-7B6B-3E0C-787246AA3691}.png][mirai:image:{2552D5CC-36F5-2903-0FF0-5E27274450B0}.png][0m[m
+[0m2022-07-22 04:54:47 V/Bot.2452548710: Group(299372193) <- 小屿拿下一轮，获得了1分[0m[m
+[0m2022-07-22 04:54:47 V/Bot.2452548710: Group(299372193) <- 小屿取得了胜利[0m[m
+[0m2022-07-22 05:45:42 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] 《二游玩到最后都是“哈哈，SB游戏”》(2938546235) -> [mirai:image:{3C8734FB-2B5A-3827-98F5-181126E03820}.gif][0m[m
+[0m2022-07-22 05:53:07 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> [mirai:image:{13790534-3B3D-E658-2991-65FD6EB1BA56}.jpg][0m[m

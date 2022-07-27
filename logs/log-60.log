@@ -1,0 +1,136 @@
+[92m2022-07-27 15:36:51 I/main: Starting mirai-console...[0m[m
+[92m2022-07-27 15:36:51 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-27 15:36:51 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-27 15:36:51 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-27 15:36:52 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-27 15:36:52 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-27 15:36:52 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-27 15:36:52 I/MinecraftServerListener: Plugin loaded[0m[m
+[31m2022-07-27 15:36:52 E/MinecraftServerListener: java.lang.NumberFormatException: For input string: "group ID"
+java.lang.NumberFormatException: For input string: "group ID"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Long.parseLong(Long.java:692)
+	at java.base/java.lang.Long.parseLong(Long.java:817)
+	at com.yu.plugs.PluginMain.onEnable$getCfg(PluginMain.kt:153)
+	at com.yu.plugs.PluginMain.onEnable(PluginMain.kt:165)
+	at net.mamoe.mirai.console.internal.plugin.JvmPluginInternal.internalOnEnable$mirai_console(JvmPluginInternal.kt:119)
+	at net.mamoe.mirai.console.internal.plugin.BuiltInJvmPluginLoaderImpl.enable(BuiltInJvmPluginLoaderImpl.kt:262)
+	at net.mamoe.mirai.console.internal.plugin.BuiltInJvmPluginLoaderImpl.enable(BuiltInJvmPluginLoaderImpl.kt:34)
+	at net.mamoe.mirai.console.plugin.jvm.JvmPluginLoader$BuiltIn.enable(JvmPluginLoader.kt)
+	at net.mamoe.mirai.console.plugin.jvm.JvmPluginLoader$BuiltIn.enable(JvmPluginLoader.kt:50)
+	at net.mamoe.mirai.console.plugin.PluginManager.enablePlugin(PluginManager.kt:173)
+	at net.mamoe.mirai.console.plugin.PluginManager$INSTANCE.enablePlugin(PluginManager.kt)
+	at com.yu.plugs.RunMiraiKt.main(RunMirai.kt:26)
+	at com.yu.plugs.RunMiraiKt$main$2.invoke(RunMirai.kt)
+	at com.yu.plugs.RunMiraiKt$main$2.invoke(RunMirai.kt)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at kotlin.coroutines.jvm.internal.RunSuspendKt.runSuspend(RunSuspend.kt:19)
+	at com.yu.plugs.RunMiraiKt.main(RunMirai.kt)
+[0m[m
+[92m2022-07-27 15:36:52 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-27 15:36:52 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-27 15:36:52 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-27 15:36:52 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-27 15:36:52 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-27 15:36:52 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-27 15:36:53 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-27 15:36:53 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-27 15:36:53 I/Bot.2452548710: Login successful.[0m[m
+[91m2022-07-27 15:36:53 W/stderr: Exception in thread "main" net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。[0m[m
+[92m2022-07-27 15:36:53 I/Bot.2452548710: Bot cancelled: Bot closed[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:85)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:83)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:193)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	at java.base/java.lang.Thread.run(Thread.java:829)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at kotlinx.coroutines.JobKt.cancel(Unknown Source)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:56)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:206)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		... 25 more[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。][0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	Suppressed: StateSwitchingException(old=StateLoading, new=StateClosed, cause=net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:297)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:423)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 		... 25 more[0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。][0m[m
+[91m2022-07-27 15:36:53 W/stderr: 	Suppressed: [CIRCULAR REFERENCE: java.util.concurrent.CancellationException: NetworkHandler closed][0m[m
+[92m2022-07-27 15:37:19 I/Bot.2452548710: Login successful[0m[m
+[92m2022-07-27 15:37:19 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-27 15:37:19 I/Bot.2452548710: Login successful.[0m[m
+[31m2022-07-27 15:37:19 E/console: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:85)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:83)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:193)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:56)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:206)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+	Suppressed: StateSwitchingException(old=StateLoading, new=StateClosed, cause=net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:297)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:423)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于15:22在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+	Suppressed: [CIRCULAR REFERENCE: java.util.concurrent.CancellationException: NetworkHandler closed]
+[0m[m
+[92m2022-07-27 15:37:19 I/Bot.2452548710: Bot cancelled: Bot closed[0m[m
+[92m2022-07-27 15:37:49 I/Bot.2452548710: Login successful[0m[m
+[92m2022-07-27 15:37:49 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-27 15:37:49 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-27 15:37:50 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-27 15:37:50 I/Bot.2452548710: Bot login successful.[0m[m

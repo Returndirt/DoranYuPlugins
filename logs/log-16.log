@@ -1,0 +1,21 @@
+[92m2022-07-10 02:48:20 I/main: Starting mirai-console...[0m[m
+[92m2022-07-10 02:48:20 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-10 02:48:20 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-10 02:48:20 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-10 02:48:20 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-10 02:48:20 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-10 02:48:20 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-10 02:48:20 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-10 02:48:21 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-10 02:48:21 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-10 02:48:21 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-10 02:48:21 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-10 02:48:21 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-10 02:48:21 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-10 02:48:22 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-10 02:48:22 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-10 02:48:22 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-10 02:48:23 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-10 02:48:23 I/Bot.2452548710: Bot login successful.[0m[m
+[0m2022-07-10 02:48:24 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> BlackJack[0m[m
+[0m2022-07-10 02:48:28 V/Bot.2452548710: Group(299372193) <- we get cards:[mirai:image:{76FD2EA6-7583-EA0D-E90C-3D9115816591}.png][mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][mirai:image:{5E9C6CED-C18C-DD35-1E35-0A0CD75DA814}.png][mirai:image:{7D445F6E-559B-7F5C-3B92-0EDCBC4C8489}.png][mirai:image:{BDE745E1-9E85-2D0D-0C0C-ED3497D915D7}.png][mirai:image:{2552D5CC-36F5-2903-0FF0-5E27274450B0}.png][mirai:image:{ACBA6615-5A0D-2886-8806-A3069989E4AA}.png][mirai:image:{B93E8FF1-92BA-6EE2-B713-791E70D28DD4}.png][mirai:image:{06532DC5-063C-6245-2C22-708D0E6E2025}.png][mirai:image:{48F7E939-A4BF-4AE6-1123-7AE188A9F727}.png][mirai:image:{BCA115D3-330B-C1F5-C110-03E254C361E2}.png][mirai:image:{C78178F1-F6C5-8CE0-17C8-0FFCC77684C4}.png][mirai:image:{55801F90-06F0-F001-62FB-D0A129E146AD}.png][0m[m

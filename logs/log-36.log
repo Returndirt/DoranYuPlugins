@@ -1,0 +1,14 @@
+[0m2022-07-23 00:01:22 V/Bot.2452548710: Event: BotOfflineEvent.Dropped(bot=Bot(2452548710), cause=HeartbeatFailedException: 2452548710.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2452548710.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms), reconnect=true)[0m[m
+[91m2022-07-23 00:01:22 W/Bot.2452548710: Connection lost, reconnecting... (HeartbeatFailedException: 2452548710.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2452548710.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms))[0m[m
+[92m2022-07-23 00:02:11 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-23 00:02:11 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-23 00:02:11 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[0m2022-07-23 00:02:11 V/Bot.2452548710: Event: BotReloginEvent(bot=Bot(2452548710), cause=null)[0m[m
+[92m2022-07-23 00:02:11 I/Bot.2452548710: Reconnected successfully in 48.484s.[0m[m
+[0m2022-07-23 00:02:26 V/Bot.2452548710: Event: BotOfflineEvent.Dropped(bot=Bot(2452548710), cause=NettyChannelException(message=null, cause=java.io.IOException: 远程主机强迫关闭了一个现有的连接。), reconnect=true)[0m[m
+[91m2022-07-23 00:02:26 W/Bot.2452548710: Connection lost, reconnecting... (NettyChannelException(message=null, cause=java.io.IOException: 远程主机强迫关闭了一个现有的连接。))[0m[m
+[92m2022-07-23 00:52:10 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-23 00:52:10 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-23 00:52:10 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[0m2022-07-23 00:52:10 V/Bot.2452548710: Event: BotReloginEvent(bot=Bot(2452548710), cause=null)[0m[m
+[92m2022-07-23 00:52:10 I/Bot.2452548710: Reconnected successfully in 49min 44.177s.[0m[m

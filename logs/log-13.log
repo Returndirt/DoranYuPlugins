@@ -1,0 +1,32 @@
+[92m2022-07-10 02:33:52 I/main: Starting mirai-console...[0m[m
+[92m2022-07-10 02:33:52 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-10 02:33:52 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-10 02:33:52 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-10 02:33:52 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-10 02:33:52 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-10 02:33:52 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-10 02:33:52 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-10 02:33:52 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-10 02:33:52 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-10 02:33:52 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-10 02:33:52 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-10 02:33:52 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-10 02:33:52 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-10 02:33:54 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-10 02:33:54 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-10 02:33:54 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-10 02:33:55 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-10 02:33:55 I/Bot.2452548710: Bot login successful.[0m[m
+[0m2022-07-10 02:34:05 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> BlackJack[0m[m
+[0m2022-07-10 02:34:06 V/Bot.2452548710: Group(299372193) <- [mirai:image:{76FD2EA6-7583-EA0D-E90C-3D9115816591}.png][0m[m
+[0m2022-07-10 02:34:07 V/Bot.2452548710: Group(299372193) <- [mirai:image:{76FD2EA6-7583-EA0D-E90C-3D9115816591}.png][0m[m
+[0m2022-07-10 02:34:08 V/Bot.2452548710: Group(299372193) <- [mirai:image:{B4E8889C-82DA-504C-BD1C-CC8479DF5C9D}.png][0m[m
+[0m2022-07-10 02:34:09 V/Bot.2452548710: Group(299372193) <- [mirai:image:{D09F5B86-AAE1-9868-9876-DE82810FA6E4}.png][0m[m
+[0m2022-07-10 02:34:09 V/Bot.2452548710: Group(299372193) <- [mirai:image:{59369DD4-D791-FE45-8B38-A4B04BEC4C77}.png][0m[m
+[0m2022-07-10 02:34:10 V/Bot.2452548710: Group(299372193) <- [mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][0m[m
+[0m2022-07-10 02:34:11 V/Bot.2452548710: Group(299372193) <- [mirai:image:{8FD9509A-A887-FC3B-E95E-B2F2785426EE}.png][0m[m
+[0m2022-07-10 02:34:12 V/Bot.2452548710: Group(299372193) <- [mirai:image:{885C2602-6E92-98EC-C5D7-EF1EDA302278}.png][0m[m
+[0m2022-07-10 02:34:12 V/Bot.2452548710: Group(299372193) <- [mirai:image:{2AA3079E-847A-0C1A-6692-5E8DF0B6F50A}.png][0m[m
+[0m2022-07-10 02:34:13 V/Bot.2452548710: Group(299372193) <- [mirai:image:{5E9C6CED-C18C-DD35-1E35-0A0CD75DA814}.png][0m[m
+[0m2022-07-10 02:34:15 V/Bot.2452548710: Group(299372193) <- [mirai:image:{AAB85D40-6E72-F663-3911-1FE4A6961946}.png][0m[m
+[0m2022-07-10 02:34:15 V/Bot.2452548710: Group(299372193) <- [mirai:image:{54E34E59-153A-24CD-03C5-12D0436B84F7}.png][0m[m

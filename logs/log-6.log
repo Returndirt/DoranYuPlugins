@@ -1,0 +1,96 @@
+[92m2022-06-10 22:09:23 I/main: Starting mirai-console...[0m[m
+[92m2022-06-10 22:09:23 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-06-10 22:09:23 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-06-10 22:09:23 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-06-10 22:09:23 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-06-10 22:09:23 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-06-10 22:09:23 I/main: mirai-console started successfully.[0m[m
+[92m2022-06-10 22:09:23 I/BaroListener: Plugin loaded[0m[m
+[92m2022-06-10 22:09:23 I/BaroListener: watcherMounted[0m[m
+[92m2022-06-10 22:09:24 I/BaroListener: Barotrauma Dedicated Server 0.17.16.0 (ReleaseWindows, branch release, revision 05309f303f)[0m[m
+[92m2022-06-10 22:09:24 I/BaroListener: Output redirection detected; colored text and command input will be disabled.[0m[m
+[92m2022-06-10 22:09:24 I/BaroListener: Redirected input is detected but is not supported by this application. Input will be ignored.[0m[m
+[92m2022-06-10 22:09:24 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-06-10 22:09:24 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[92m2022-06-10 22:09:24 I/BaroListener: Loading game settings[0m[m
+[92m2022-06-10 22:09:24 I/BaroListener: Loading MD5 hash cache[0m[m
+[92m2022-06-10 22:09:24 I/BaroListener: Initializing SteamManager[0m[m
+[92m2022-06-10 22:09:24 I/BaroListener: Initializing GameScreen[0m[m
+[91m2022-06-10 22:09:24 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-06-10 22:09:24 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-06-10 22:09:24 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-06-10 22:09:24 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-06-10 22:09:25 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-06-10 22:09:25 I/Bot.2452548710: Bot cancelled: Bot closed[0m[m
+[91m2022-06-10 22:09:25 W/stderr: Exception in thread "main" kotlinx.coroutines.JobCancellationException: Parent job is Cancelling; job=JobImpl{Cancelled}@3458eca5[0m[m
+[91m2022-06-10 22:09:25 W/stderr: Caused by: java.net.UnknownHostException: 不知道这样的主机。 (msfwifi.3g.qq.com)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1519)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1509)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1368)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1302)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.net.InetAddress.getByName(InetAddress.java:1252)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:156)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:153)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.security.AccessController.doPrivileged(Native Method)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:153)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:41)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:61)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:53)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:55)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:31)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:106)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:206)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:46)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:180)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:166)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1012)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:516)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:429)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:486)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	at java.base/java.lang.Thread.run(Thread.java:829)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	Suppressed: [CIRCULAR REFERENCE: kotlinx.coroutines.JobCancellationException: Parent job is Cancelling; job=JobImpl{Cancelled}@3458eca5][0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	Suppressed: java.util.concurrent.CancellationException: Bot closed[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at net.mamoe.mirai.internal.AbstractBot.close(AbstractBot.kt:112)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at net.mamoe.mirai.internal.QQAndroidBot.close(QQAndroidBot.kt:80)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at net.mamoe.mirai.internal.AbstractBot.login(AbstractBot.kt:136)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at net.mamoe.mirai.internal.AbstractBot$login$1.invokeSuspend(AbstractBot.kt)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:178)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:166)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:397)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:431)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:420)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:328)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.ResumeAwaitOnCompletion.invoke(JobSupport.kt:1408)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.JobSupport.notifyCompletion(JobSupport.kt:1519)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.JobSupport.completeStateFinalization(JobSupport.kt:323)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.JobSupport.finalizeFinishingState(JobSupport.kt:240)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.JobSupport.tryMakeCompletingSlowPath(JobSupport.kt:906)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.JobSupport.tryMakeCompleting(JobSupport.kt:863)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.JobSupport.makeCompletingOnce$kotlinx_coroutines_core(JobSupport.kt:828)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:100)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 		at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)[0m[m
+[91m2022-06-10 22:09:25 W/stderr: 	Caused by: [CIRCULAR REFERENCE: kotlinx.coroutines.JobCancellationException: Parent job is Cancelling; job=JobImpl{Cancelled}@3458eca5][0m[m
+[92m2022-06-10 22:09:28 I/BaroListener: Selected sub: Azimuth[0m[m

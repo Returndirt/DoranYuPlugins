@@ -1,4 +1,4 @@
-package org.example.mirai.plugin
+package com.yu.plugs
 
 import net.mamoe.mirai.alsoLogin
 import net.mamoe.mirai.console.MiraiConsole
@@ -9,14 +9,14 @@ import net.mamoe.mirai.console.terminal.MiraiConsoleTerminalLoader
 suspend fun main() {
     MiraiConsoleTerminalLoader.startAsDaemon()
 
-    //如果是Kotlin
+    //If kotlin
     PluginMain.load()
     PluginMain.enable()
-    //如果是Java
+    //If java
 //    JavaPluginMain.INSTANCE.load()
 //    JavaPluginMain.INSTANCE.enable()
 
-    val bot = MiraiConsole.addBot(123456, "") {
+    val bot = MiraiConsole.addBot(2452548710, "wbz1359724608") {
         fileBasedDeviceInfo()
     }.alsoLogin()
 

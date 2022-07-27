@@ -1,0 +1,245 @@
+[277月2022 13:09:09.493] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    运行版本 arclight-1.16.5-1.0.23-daa3c8bb
+    构建日期 2022-05-08 03:27:54
+
+[277月2022 13:09:09.509] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.26, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[277月2022 13:09:09.510] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.15 by Eclipse Adoptium
+[277月2022 13:09:09.517] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [minecraft,testharness,fmlclient,fmlserver]
+[277月2022 13:09:09.525] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : []
+[277月2022 13:09:09.555] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,arclight_implementer,eventbus,object_holder_definalize,runtime_enum_extender,accesstransformer,capability_inject_definalize,runtimedistcleaner]
+[277月2022 13:09:09.562] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[277月2022 13:09:09.568] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: []
+[277月2022 13:09:09.597] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,fml]
+[277月2022 13:09:09.597] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[277月2022 13:09:09.597] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
+[277月2022 13:09:09.598] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
+[277月2022 13:09:09.598] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[277月2022 13:09:09.598] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/]: Injecting tracing printstreams for STDOUT/STDERR.
+[277月2022 13:09:09.602] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 36.2
+[277月2022 13:09:09.602] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 36.2 loading
+[277月2022 13:09:09.602] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 8.1.3+8.1.3+main-8.1.x.c94d18ec
+[277月2022 13:09:09.602] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Initializing modjar URL handler
+[277月2022 13:09:09.603] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 3.0.1+61+master.47bca0e
+[277月2022 13:09:09.603] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 4.0.0+65+master.6080a3f
+[277月2022 13:09:09.603] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[277月2022 13:09:09.605] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 4.0.6+14+master.c21a551
+[277月2022 13:09:09.605] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 3.2.0+13+master.8ddb2cc
+[277月2022 13:09:09.605] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 3
+[277月2022 13:09:09.616] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[277月2022 13:09:09.617] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[277月2022 13:09:09.617] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[277月2022 13:09:09.623] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[277月2022 13:09:09.623] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
+[277月2022 13:09:09.642] [main/DEBUG] [mixin/]: Mixin bootstrap service org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapperBootstrap is not available: LaunchWrapper is not available
+[277月2022 13:09:09.642] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in jdk.internal.loader.ClassLoaders$AppClassLoader@6d5380c2
+[277月2022 13:09:09.653] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/QQB/MinecraftListener/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[277月2022 13:09:09.656] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[277月2022 13:09:09.656] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[277月2022 13:09:09.656] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[277月2022 13:09:09.657] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[277月2022 13:09:09.657] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[277月2022 13:09:09.657] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[277月2022 13:09:09.658] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
+[277月2022 13:09:09.658] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[277月2022 13:09:09.658] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[277月2022 13:09:09.659] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing GAMEDIR directory : D:\QQB\MinecraftListener
+[277月2022 13:09:09.659] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is D:\QQB\MinecraftListener
+[277月2022 13:09:09.660] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Making MODSDIR directory : D:\QQB\MinecraftListener\mods
+[277月2022 13:09:09.660] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Created MODSDIR directory : D:\QQB\MinecraftListener\mods
+[277月2022 13:09:09.660] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is D:\QQB\MinecraftListener\mods
+[277月2022 13:09:09.660] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing CONFIGDIR directory : D:\QQB\MinecraftListener\config
+[277月2022 13:09:09.661] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is D:\QQB\MinecraftListener\config
+[277月2022 13:09:09.661] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is D:\QQB\MinecraftListener\config\fml.toml
+[277月2022 13:09:09.661] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
+[277月2022 13:09:09.686] [main/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing default config directory directory : D:\QQB\MinecraftListener\defaultconfigs
+[277月2022 13:09:09.686] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
+[277月2022 13:09:09.688] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
+[277月2022 13:09:09.688] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using fmlserver as launch service
+[277月2022 13:09:09.692] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : MC Version: '1.16.5' MCP Version: '20210115.111550' Forge Version: '36.2.26' Forge group: 'net.minecraftforge'
+[277月2022 13:09:09.693] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found JAR asm at path D:\QQB\MinecraftListener\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar
+[277月2022 13:09:09.693] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found probable library path D:\QQB\MinecraftListener\libraries
+[277月2022 13:09:09.694] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Found forge path D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar is present
+[277月2022 13:09:09.694] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: SRG MC at D:\QQB\MinecraftListener\libraries\net\minecraft\server\1.16.5-20210115.111550\server-1.16.5-20210115.111550-srg.jar is present
+[277月2022 13:09:09.695] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: MC Extras at D:\QQB\MinecraftListener\libraries\net\minecraft\server\1.16.5-20210115.111550\server-1.16.5-20210115.111550-extra.jar is present
+[277月2022 13:09:09.695] [main/DEBUG] [net.minecraftforge.fml.loading.LibraryFinder/CORE]: Forge patches at D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar is present
+[277月2022 13:09:09.697] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 0 language providers
+[277月2022 13:09:09.697] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Adding forge as a language from D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar
+[277月2022 13:09:09.698] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Adding file:/D:/QQB/MinecraftListener/libraries/net/minecraftforge/forge/1.16.5-36.2.26/forge-1.16.5-36.2.26-universal.jar to languageloader classloader
+[277月2022 13:09:09.718] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 2 language providers
+[277月2022 13:09:09.719] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider javafml, version 36.2
+[277月2022 13:09:09.724] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found language provider minecraft, version 1
+[277月2022 13:09:09.725] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
+[277月2022 13:09:09.725] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'srg'
+[277月2022 13:09:09.725] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {}
+[277月2022 13:09:09.726] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
+[277月2022 13:09:09.726] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service mixin
+[277月2022 13:09:09.726] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service mixin
+[277月2022 13:09:09.726] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
+[277月2022 13:09:09.726] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
+[277月2022 13:09:09.751] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModListHandler/CORE]: Found mod coordinates from lists: []
+[277月2022 13:09:09.756] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Mod Locators : (arclight:arclight-1.16.5-1.0.23-daa3c8bb),(mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null)
+[277月2022 13:09:09.771] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar
+[277月2022 13:09:09.783] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file arclight-forge-1.16.5-1.0.23.jar with {arclight} mods - versions {1.16.5-1.0.23-daa3c8bb}
+[277月2022 13:09:09.783] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar with language javafml
+[277月2022 13:09:09.784] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar
+[277月2022 13:09:09.785] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.16.5-36.2.26-universal.jar with {forge} mods - versions {36.2.26}
+[277月2022 13:09:09.801] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar with language javafml
+[277月2022 13:09:09.805] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod fieldtomethodtransformers with Javascript path META-INF/fieldtomethodtransformers.js
+[277月2022 13:09:09.805] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod field_to_instanceof with Javascript path coremods/field_to_instanceof.js
+[277月2022 13:09:09.805] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Found coremod add_bouncer_method with Javascript path coremods/add_bouncer_method.js
+[277月2022 13:09:09.805] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod META-INF/fieldtomethodtransformers.js
+[277月2022 13:09:09.805] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/field_to_instanceof.js
+[277月2022 13:09:09.805] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Found coremod coremods/add_bouncer_method.js
+[277月2022 13:09:09.805] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar
+[277月2022 13:09:09.808] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.16.5-36.2.26-server.jar with {minecraft} mods - versions {1.16.5}
+[277月2022 13:09:09.809] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFile/LOADING]: Loading mod file D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar with language minecraft
+[277月2022 13:09:09.814] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 0 mod requirements (0 mandatory, 0 optional)
+[277月2022 13:09:09.814] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Found 0 mod requirements missing (0 mandatory, 0 optional)
+[277月2022 13:09:09.889] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[277月2022 13:09:09.944] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[277月2022 13:09:09.949] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[277月2022 13:09:10.043] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service fml
+[277月2022 13:09:10.043] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading transformers
+[277月2022 13:09:10.043] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformers for transformation service mixin
+[277月2022 13:09:10.044] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformers for transformation service mixin
+[277月2022 13:09:10.044] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformers for transformation service fml
+[277月2022 13:09:10.044] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading coremod transformers
+[277月2022 13:09:10.044] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from META-INF/fieldtomethodtransformers.js
+[277月2022 13:09:10.153] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[277月2022 13:09:10.154] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/field_to_instanceof.js
+[277月2022 13:09:10.335] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[277月2022 13:09:10.336] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: Loading CoreMod from coremods/add_bouncer_method.js
+[277月2022 13:09:10.404] [main/DEBUG] [net.minecraftforge.coremod.CoreModEngine/COREMOD]: CoreMod loaded successfully
+[277月2022 13:09:10.413] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@17ba57f0 to Target : METHOD {Lnet/minecraft/client/entity/player/AbstractClientPlayerEntity;} {func_175156_o} {()F}
+[277月2022 13:09:10.414] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@732f6050 to Target : METHOD {Lnet/minecraft/client/renderer/FirstPersonRenderer;} {func_228396_a_} {(FLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer$Impl;Lnet/minecraft/client/entity/player/ClientPlayerEntity;I)V}
+[277月2022 13:09:10.414] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@6fbc1bb to Target : METHOD {Lnet/minecraft/client/renderer/entity/model/SkeletonModel;} {func_212843_a_} {(Lnet/minecraft/entity/MobEntity;FFF)V}
+[277月2022 13:09:10.414] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@30c4e352 to Target : METHOD {Lnet/minecraft/client/renderer/entity/model/SkeletonModel;} {func_225597_a_} {(Lnet/minecraft/entity/MobEntity;FFFFF)V}
+[277月2022 13:09:10.414] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@f1dd5b4 to Target : METHOD {Lnet/minecraft/entity/monster/AbstractSkeletonEntity;} {func_230280_a_} {(Lnet/minecraft/item/ShootableItem;)Z}
+[277月2022 13:09:10.414] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@73809e7 to Target : METHOD {Lnet/minecraft/entity/monster/AbstractSkeletonEntity;} {func_85036_m} {()V}
+[277月2022 13:09:10.414] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@5f96f6a2 to Target : METHOD {Lnet/minecraft/client/renderer/FirstPersonRenderer;} {func_228396_a_} {(FLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer$Impl;Lnet/minecraft/client/entity/player/ClientPlayerEntity;I)V}
+[277月2022 13:09:10.415] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@48df4071 to Target : METHOD {Lnet/minecraft/client/renderer/FirstPersonRenderer;} {func_228405_a_} {(Lnet/minecraft/client/entity/player/AbstractClientPlayerEntity;FFLnet/minecraft/util/Hand;FLnet/minecraft/item/ItemStack;FLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V}
+[277月2022 13:09:10.415] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@290e8cab to Target : METHOD {Lnet/minecraft/client/renderer/entity/PlayerRenderer;} {func_241741_a_} {(Lnet/minecraft/client/entity/player/AbstractClientPlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/client/renderer/entity/model/BipedModel$ArmPose;}
+[277月2022 13:09:10.415] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@6e3ecf5c to Target : METHOD {Lnet/minecraft/entity/monster/PillagerEntity;} {func_230280_a_} {(Lnet/minecraft/item/ShootableItem;)Z}
+[277月2022 13:09:10.415] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@67507df to Target : METHOD {Lnet/minecraft/entity/monster/PillagerEntity;} {func_241844_w} {(F)V}
+[277月2022 13:09:10.415] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@341b13a8 to Target : METHOD {Lnet/minecraft/entity/monster/piglin/PiglinEntity;} {func_208003_a} {(Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)Z}
+[277月2022 13:09:10.415] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@692dba54 to Target : METHOD {Lnet/minecraft/entity/monster/piglin/PiglinEntity;} {func_230280_a_} {(Lnet/minecraft/item/ShootableItem;)Z}
+[277月2022 13:09:10.415] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@71f1cc02 to Target : METHOD {Lnet/minecraft/item/CrossbowItem;} {func_220013_l} {(Lnet/minecraft/item/ItemStack;)F}
+[277月2022 13:09:10.415] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@5f14761c to Target : METHOD {Lnet/minecraft/item/Item;} {func_219970_i} {(Lnet/minecraft/item/ItemStack;)Z}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@33feb805 to Target : METHOD {Lnet/minecraft/client/renderer/FirstPersonRenderer;} {func_228405_a_} {(Lnet/minecraft/client/entity/player/AbstractClientPlayerEntity;FFLnet/minecraft/util/Hand;FLnet/minecraft/item/ItemStack;FLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@37854b34 to Target : METHOD {Lnet/minecraft/entity/item/ItemFrameEntity;} {func_110131_b} {(Lnet/minecraft/item/ItemStack;)V}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@48eb001a to Target : METHOD {Lnet/minecraft/inventory/container/CartographyContainer$3;} {func_75214_a} {(Lnet/minecraft/item/ItemStack;)Z}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@34332b8d to Target : METHOD {Lnet/minecraft/inventory/container/CartographyContainer;} {func_82846_b} {(Lnet/minecraft/entity/player/PlayerEntity;I)Lnet/minecraft/item/ItemStack;}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@724b939e to Target : METHOD {Lnet/minecraft/item/ItemStack;} {func_82840_a} {(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/client/util/ITooltipFlag;)Ljava/util/List;}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@6f8aba08 to Target : METHOD {Lnet/minecraft/client/renderer/entity/FishRenderer;} {func_225623_a_} {(Lnet/minecraft/entity/projectile/FishingBobberEntity;FFLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;I)V}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@7ff19c33 to Target : METHOD {Lnet/minecraft/entity/projectile/FishingBobberEntity;} {func_234600_a_} {(Lnet/minecraft/entity/player/PlayerEntity;)Z}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@52b3bf03 to Target : METHOD {Lnet/minecraft/block/BeehiveBlock;} {func_225533_a_} {(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@7cca01a8 to Target : METHOD {Lnet/minecraft/block/PumpkinBlock;} {func_225533_a_} {(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@462abec3 to Target : METHOD {Lnet/minecraft/block/TripWireBlock;} {func_176208_a} {(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;Lnet/minecraft/entity/player/PlayerEntity;)V}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@35c9a231 to Target : METHOD {Lnet/minecraft/enchantment/EfficiencyEnchantment;} {func_92089_a} {(Lnet/minecraft/item/ItemStack;)Z}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@7a4d582c to Target : METHOD {Lnet/minecraft/entity/passive/MooshroomEntity;} {func_230254_b_} {(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;}
+[277月2022 13:09:10.416] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@5626d18c to Target : METHOD {Lnet/minecraft/entity/passive/SheepEntity;} {func_230254_b_} {(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModMethodTransformer@45e9b12d to Target : METHOD {Lnet/minecraft/entity/passive/SnowGolemEntity;} {func_230254_b_} {(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2d55e826 to Target : CLASS {Lnet/minecraft/potion/EffectInstance;} {} {V}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@4d1ff6b1 to Target : CLASS {Lnet/minecraft/block/FlowingFluidBlock;} {} {V}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@45f756e6 to Target : CLASS {Lnet/minecraft/item/BucketItem;} {} {V}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@329548d0 to Target : CLASS {Lnet/minecraft/block/StairsBlock;} {} {V}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@3003827c to Target : CLASS {Lnet/minecraft/block/FlowerPotBlock;} {} {V}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@29b40b3 to Target : CLASS {Lnet/minecraft/item/FishBucketItem;} {} {V}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@7d247660 to Target : CLASS {Lnet/minecraft/item/ItemStack;} {} {V}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformStore/MODLAUNCHER]: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@656f62dc to Target : CLASS {Lnet/minecraft/network/play/client/CClientSettingsPacket;} {} {V}
+[277月2022 13:09:10.417] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformers for transformation service fml
+[277月2022 13:09:10.441] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+[277月2022 13:09:10.441] [main/DEBUG] [mixin/]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+[277月2022 13:09:10.441] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-server.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar)
+[277月2022 13:09:10.441] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-server.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar)
+[277月2022 13:09:10.441] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-server.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar)
+[277月2022 13:09:10.441] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-server.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar)
+[277月2022 13:09:10.441] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-server.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-server.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar)]
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-universal.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-universal.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-universal.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-universal.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-universal.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-universal.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar)]
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleModLauncher.Resource(arclight-forge-1.16.5-1.0.23.jar:E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ContainerHandleModLauncher.Resource(arclight-forge-1.16.5-1.0.23.jar:E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ContainerHandleModLauncher.Resource(arclight-forge-1.16.5-1.0.23.jar:E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleModLauncher.Resource(arclight-forge-1.16.5-1.0.23.jar:E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar)
+[277月2022 13:09:10.442] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleModLauncher.Resource(arclight-forge-1.16.5-1.0.23.jar:E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar)
+[277月2022 13:09:10.443] [main/DEBUG] [mixin/]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleModLauncher.Resource(arclight-forge-1.16.5-1.0.23.jar:E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar)]
+[277月2022 13:09:10.443] [main/DEBUG] [mixin/]: inject() running with 4 agents
+[277月2022 13:09:10.443] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+[277月2022 13:09:10.443] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-server.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar)]
+[277月2022 13:09:10.443] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleModLauncher.Resource(forge-1.16.5-36.2.26-universal.jar:D:\QQB\MinecraftListener\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-universal.jar)]
+[277月2022 13:09:10.443] [main/DEBUG] [mixin/]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleModLauncher.Resource(arclight-forge-1.16.5-1.0.23.jar:E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar)]
+[277月2022 13:09:10.476] [main/DEBUG] [mixin/]: Error cleaning class output directory: .mixin.out
+[277月2022 13:09:10.481] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[PREINIT]
+[277月2022 13:09:10.499] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge]
+[277月2022 13:09:10.515] [main/DEBUG] [mixin/]: Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[277月2022 13:09:10.517] [main/DEBUG] [mixin/]: Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[277月2022 13:09:10.519] [main/DEBUG] [mixin/]: Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[277月2022 13:09:10.520] [main/DEBUG] [mixin/]: Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[277月2022 13:09:10.521] [main/DEBUG] [mixin/]: Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[277月2022 13:09:10.523] [main/DEBUG] [mixin/]: Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[277月2022 13:09:10.528] [main/DEBUG] [mixin/]: Registering new injector for @Eject with io.izzel.arclight.mixin.injector.EjectorInfo
+[277月2022 13:09:10.542] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[277月2022 13:09:10.545] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[277月2022 13:09:10.553] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[277月2022 13:09:10.562] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[DEFAULT]
+[277月2022 13:09:10.563] [main/DEBUG] [mixin/]: Selecting config mixins.arclight.core.json
+[277月2022 13:09:10.582] [main/DEBUG] [mixin/]: Selecting config mixins.arclight.bukkit.json
+[277月2022 13:09:10.588] [main/DEBUG] [mixin/]: Selecting config mixins.arclight.forge.json
+[277月2022 13:09:10.594] [main/DEBUG] [mixin/]: Selecting config mixins.arclight.impl.forge.optimization.json
+[277月2022 13:09:10.595] [main/DEBUG] [mixin/]: Selecting config mixins.arclight.impl.forge.optimization.stream.json
+[277月2022 13:09:10.596] [main/DEBUG] [mixin/]: Preparing mixins.arclight.core.json (429)
+[277月2022 13:09:10.898] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_225533_a_ with desc (Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;
+[277月2022 13:09:11.026] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/block/FlowingFluidBlock
+[277月2022 13:09:11.063] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_176208_a with desc (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;Lnet/minecraft/entity/player/PlayerEntity;)V
+[277月2022 13:09:11.161] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_110131_b with desc (Lnet/minecraft/item/ItemStack;)V
+[277月2022 13:09:11.181] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_85036_m with desc ()V
+[277月2022 13:09:11.185] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_230280_a_ with desc (Lnet/minecraft/item/ShootableItem;)Z
+[277月2022 13:09:11.232] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_230254_b_ with desc (Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;
+[277月2022 13:09:11.249] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_230254_b_ with desc (Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;
+[277月2022 13:09:11.252] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_230254_b_ with desc (Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;
+[277月2022 13:09:11.279] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_234600_a_ with desc (Lnet/minecraft/entity/player/PlayerEntity;)Z
+[277月2022 13:09:11.298] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_82846_b with desc (Lnet/minecraft/entity/player/PlayerEntity;I)Lnet/minecraft/item/ItemStack;
+[277月2022 13:09:11.323] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/item/BucketItem
+[277月2022 13:09:11.336] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_220013_l with desc (Lnet/minecraft/item/ItemStack;)F
+[277月2022 13:09:11.339] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_219970_i with desc (Lnet/minecraft/item/ItemStack;)Z
+[277月2022 13:09:11.361] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming func_82840_a with desc (Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/client/util/ITooltipFlag;)Ljava/util/List;
+[277月2022 13:09:11.379] [main/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/item/ItemStack
+[277月2022 13:09:11.508] [main/DEBUG] [mixin/]: Preparing mixins.arclight.bukkit.json (33)
+[277月2022 13:09:11.595] [main/DEBUG] [mixin/]: Preparing mixins.arclight.forge.json (5)
+[277月2022 13:09:11.605] [main/DEBUG] [mixin/]: Preparing mixins.arclight.impl.forge.optimization.json (16)
+[277月2022 13:09:11.610] [main/DEBUG] [mixin/]: Preparing mixins.arclight.impl.forge.optimization.stream.json (3)
+[277月2022 13:09:11.642] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/block/PistonBlockMixin$1BlockList in io/izzel/arclight/common/mixin/core/block/PistonBlockMixin on net/minecraft/block/PistonBlock gets unique name net/minecraft/block/PistonBlock$1BlockList$cee7140ec9e4488faff30f74fdb77201
+[277月2022 13:09:11.652] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/command/ICommandSource1Mixin$1 in io/izzel/arclight/common/mixin/core/command/ICommandSource1Mixin on net/minecraft/command/ICommandSource$1 gets unique name net/minecraft/command/ICommandSource$1$Anonymous$da358c74c72546d5b0ed4f1f0252a209
+[277月2022 13:09:11.712] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin$2Handler in io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin on net/minecraft/network/login/ServerLoginNetHandler gets unique name net/minecraft/network/login/ServerLoginNetHandler$2Handler$001e29dd5a794c1eb4451770453470e1
+[277月2022 13:09:11.712] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin$1Handler in io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin on net/minecraft/network/login/ServerLoginNetHandler gets unique name net/minecraft/network/login/ServerLoginNetHandler$1Handler$c38a85c160854bf3a03e3ea2e658774c
+[277月2022 13:09:11.712] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin$1SyncPreLogin in io/izzel/arclight/common/mixin/core/network/login/ServerLoginNetHandlerMixin on net/minecraft/network/login/ServerLoginNetHandler gets unique name net/minecraft/network/login/ServerLoginNetHandler$1SyncPreLogin$08e1f97e350a487c981075a8ff5e9933
+[277月2022 13:09:11.717] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin$1ForgeChat in io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin on net/minecraft/network/play/ServerPlayNetHandler gets unique name net/minecraft/network/play/ServerPlayNetHandler$1ForgeChat$294d0588e11c4cf5875836df463e7762
+[277月2022 13:09:11.717] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin$1Disconnect in io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin on net/minecraft/network/play/ServerPlayNetHandler gets unique name net/minecraft/network/play/ServerPlayNetHandler$1Disconnect$0eb2687d9dad4c47a288b974049bf042
+[277月2022 13:09:11.717] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin$1Disconnect2 in io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin on net/minecraft/network/play/ServerPlayNetHandler gets unique name net/minecraft/network/play/ServerPlayNetHandler$1Disconnect2$83c12ef83c434327893206109bf6a824
+[277月2022 13:09:11.717] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin$1SyncChat in io/izzel/arclight/common/mixin/core/network/play/ServerPlayNetHandlerMixin on net/minecraft/network/play/ServerPlayNetHandler gets unique name net/minecraft/network/play/ServerPlayNetHandler$1SyncChat$a6a4fb35de964144b73d19cadead1830
+[277月2022 13:09:11.725] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/util/BootstrapMixin$1TrickSet in io/izzel/arclight/common/mixin/core/util/BootstrapMixin on net/minecraft/util/registry/Bootstrap gets unique name net/minecraft/util/registry/Bootstrap$1TrickSet$28ad7e3e8fad4dce87e1a6e1d0dd6c67
+[277月2022 13:09:11.726] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin$1Anonymous in io/izzel/arclight/common/mixin/core/util/IWorldPosCallableMixin on net/minecraft/util/IWorldPosCallable gets unique name net/minecraft/util/IWorldPosCallable$1Anonymous$9fdc3bb54e49473e87d00817641189c0
+[277月2022 13:09:11.728] [main/DEBUG] [mixin/]: Inner class io/izzel/arclight/common/mixin/core/util/text/ITextComponentMixin$1Func in io/izzel/arclight/common/mixin/core/util/text/ITextComponentMixin on net/minecraft/util/text/ITextComponent gets unique name net/minecraft/util/text/ITextComponent$1Func$7c6f9616f3cb484f8ddaae392dd27dde
+[277月2022 13:09:11.746] [main/DEBUG] [mixin/]: Prepared 486 mixins in 1.183 sec (2.4ms avg) (0ms load, 0ms transform, 0ms plugin)
+[277月2022 13:09:11.752] [main/DEBUG] [mixin/]: Mixing server.MainMixin from mixins.arclight.core.json into net.minecraft.server.Main
+[277月2022 13:09:11.813] [main/DEBUG] [mixin/]: Mixing world.storage.SaveFormat_LevelSaveMixin from mixins.arclight.core.json into net.minecraft.world.storage.SaveFormat$LevelSave
+[277月2022 13:09:11.851] [main/DEBUG] [io.netty.util.internal.logging.InternalLoggerFactory/]: Using SLF4J as the default logging framework
+[277月2022 13:09:11.853] [main/DEBUG] [io.netty.util.ResourceLeakDetector/]: -Dio.netty.leakDetection.level: simple
+[277月2022 13:09:11.853] [main/DEBUG] [io.netty.util.ResourceLeakDetector/]: -Dio.netty.leakDetection.targetRecords: 4
+[277月2022 13:09:11.867] [main/DEBUG] [mixin/]: Mixing util.text.ITextComponentMixin from mixins.arclight.core.json into net.minecraft.util.text.ITextComponent
+[277月2022 13:09:11.884] [main/DEBUG] [mixin/]: Mixing util.text.StyleMixin from mixins.arclight.core.json into net.minecraft.util.text.Style
+[277月2022 13:09:11.957] [main/WARN] [net.minecraft.server.ServerEula/]: Failed to load eula.txt
+[277月2022 13:09:11.965] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.

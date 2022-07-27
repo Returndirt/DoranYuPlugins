@@ -1,0 +1,104 @@
+[92m2022-07-18 12:42:52 I/main: Starting mirai-console...[0m[m
+[92m2022-07-18 12:42:52 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-18 12:42:52 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-18 12:42:52 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-18 12:42:52 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-18 12:42:52 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-18 12:42:52 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-18 12:42:52 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-18 12:42:52 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-18 12:42:52 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-18 12:42:52 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-18 12:42:52 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-18 12:42:52 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-18 12:42:52 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-18 12:42:53 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-18 12:42:54 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-18 12:42:54 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-18 12:42:54 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-18 12:42:54 I/Bot.2452548710: Bot login successful.[0m[m
+[92m2022-07-18 12:43:01 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-18 12:43:01 I/BlackJack: 正在划水的焼団子want to duel and there are vally 299372193has 0 person[0m[m
+[31m2022-07-18 12:43:01 E/BlackJack: Exception in coroutine Plugin com.yu.plugins.BlackJackDuel of BlackJack
+java.lang.IllegalStateException: NormalMember(1145088599) is not a friend
+	at net.mamoe.mirai.contact.MemberKt.asFriend(Member.kt:133)
+	at com.yu.plugs.PluginMain$onEnable$2.invokeSuspend(PluginMain.kt:553)
+	at com.yu.plugs.PluginMain$onEnable$2.invoke(PluginMain.kt)
+	at com.yu.plugs.PluginMain$onEnable$2.invoke(PluginMain.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:455)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:50)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:89)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:166)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:50)
+	at net.mamoe.mirai.internal.event.InternalEventListenersKt.process(InternalEventListeners.kt:166)
+	at net.mamoe.mirai.internal.event.InternalEventListenersKt.callAndRemoveIfRequired(InternalEventListeners.kt:115)
+	at net.mamoe.mirai.event._EventBroadcast.broadcastImpl(Event.kt:174)
+	at net.mamoe.mirai.IMirai.broadcastEvent$suspendImpl(IMirai.kt:319)
+	at net.mamoe.mirai.IMirai.broadcastEvent(IMirai.kt)
+	at net.mamoe.mirai.internal.MiraiImpl.broadcastEvent$suspendImpl(MiraiImpl.kt:303)
+	at net.mamoe.mirai.internal.MiraiImpl.broadcastEvent(MiraiImpl.kt)
+	at net.mamoe.mirai.event._EventBroadcast.broadcastPublic$suspendImpl(Event.kt:161)
+	at net.mamoe.mirai.event._EventBroadcast.broadcastPublic(Event.kt)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:146)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcast$2.invokeSuspend(EventDispatcher.kt:90)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcast$2.invoke(EventDispatcher.kt)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcast$2.invoke(EventDispatcher.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:89)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:166)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl.broadcast$suspendImpl(EventDispatcher.kt:89)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl.broadcast(EventDispatcher.kt)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcastAsync$job$1.invokeSuspend(EventDispatcher.kt:105)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcastAsync$job$1.invoke(EventDispatcher.kt)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcastAsync$job$1.invoke(EventDispatcher.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl.broadcastAsync-kKe4JaQ(EventDispatcher.kt:102)
+	at net.mamoe.mirai.internal.network.components.EventDispatcher.broadcastAsync-kKe4JaQ$default(EventDispatcher.kt:35)
+	at net.mamoe.mirai.internal.network.components.EventBroadcasterPacketHandler.impl(PacketHandler.kt:87)
+	at net.mamoe.mirai.internal.network.components.EventBroadcasterPacketHandler.handlePacket(PacketHandler.kt:73)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:85)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:83)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:193)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m[m
+[0m2022-07-18 12:43:01 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> duel[0m[m
+[0m2022-07-18 12:43:27 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 你没小语好友吗[0m[m
+[0m2022-07-18 12:43:44 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 1145088599是谁[0m[m
+[0m2022-07-18 12:43:47 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 你吗[0m[m
+[0m2022-07-18 12:45:08 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> 是[0m[m
+[0m2022-07-18 12:45:10 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> [mirai:image:{33F0766A-DBE6-D43C-C790-0C738064F951}.jpg][0m[m
+[0m2022-07-18 12:45:17 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 加一下好友[0m[m
+[0m2022-07-18 12:45:31 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> 之前加过了[0m[m
+[0m2022-07-18 12:45:36 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> 没用过[0m[m
+[0m2022-07-18 12:45:39 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> [mirai:image:{33F0766A-DBE6-D43C-C790-0C738064F951}.jpg][0m[m
+[0m2022-07-18 12:45:46 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> [mirai:image:{07088ABD-FA83-340A-9F6B-A0995F7F5C08}.gif][0m[m
+[0m2022-07-18 12:45:49 V/Bot.2452548710: Event: NewFriendRequestEvent(bot=Bot(2452548710), eventId=1658119550000000, message=物理2101 王振斌, fromId=1145088599, fromGroupId=299372193, fromNick=红果果去马加姜)[0m[m
+[0m2022-07-18 12:45:55 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 你不是小语好友[0m[m
+[0m2022-07-18 12:46:25 V/Bot.2452548710: Event: NewFriendRequestEvent(bot=Bot(2452548710), eventId=1658119586000000, message=王振斌, fromId=1145088599, fromGroupId=299372193, fromNick=红果果去马加姜)[0m[m

@@ -1,0 +1,105 @@
+[92m2022-07-27 13:23:38 I/main: Starting mirai-console...[0m[m
+[92m2022-07-27 13:23:38 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-27 13:23:38 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-27 13:23:38 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-27 13:23:39 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-27 13:23:39 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-27 13:23:39 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-27 13:23:39 I/MinecraftServerListener: Plugin loaded[0m[m
+[92m2022-07-27 13:23:39 I/MinecraftServerListener: serverDir:E:\Minecraft\server\lsTest\start.bat groupNum:299372193[0m[m
+[92m2022-07-27 13:23:39 I/MinecraftServerListener: try to find wkDir[0m[m
+[92m2022-07-27 13:23:39 I/MinecraftServerListener: the last / at 26 get wkdir asE:\Minecraft\server\lsTest[0m[m
+[92m2022-07-27 13:23:39 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-27 13:23:39 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-27 13:23:39 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-27 13:23:39 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-27 13:23:39 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-27 13:23:39 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-27 13:23:40 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-27 13:23:40 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-27 13:23:40 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-27 13:23:41 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-27 13:23:41 I/MinecraftServerListener: 小语logged in[0m[m
+[92m2022-07-27 13:23:41 I/MinecraftServerListener: mark小语as microphone[0m[m
+[92m2022-07-27 13:23:41 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 13:23:41 I/MinecraftServerListener: E:\Minecraft\server\lsTest>java -jar "E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar" [0m[m
+[92m2022-07-27 13:23:41 I/MinecraftServerListener: 正在使用 zh_cn 语言，zh_cn 作为备选语言[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: 2022-07-27 13:23:45,336 main WARN JNDI lookup class is not available because this JRE does not support JNDI. JNDI string lookups will not be available, continuing configuration. Ignoring java.lang.ClassCastException: class org.apache.logging.log4j.core.lookup.JndiLookup[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: 2022-07-27 13:23:45,389 main WARN Advanced terminal features are not available in this environment[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: [0m[13:23:45] [main/INFO] [Arclight/]: [0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener:        ___           ___     __   /\[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener:       /   | ________/ (_)__ / /  / /[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener:      / /| |/ __/ __/ / / _ / _ \/__/[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener:     / ___ / / / /_/ / / / / // / /[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener:    /_/  |/_/  \__/_/_/\_ /_//_/ /[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener:                      /__/     \/[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener:     运行版本 arclight-1.16.5-1.0.23-daa3c8bb[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener:     构建日期 2022-05-08 03:27:54[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: [m[0m[13:23:45] [main/INFO] [c.m.m.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.26, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge][0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: [m[0m[13:23:45] [main/INFO] [c.m.m.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.15 by Eclipse Adoptium[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: [m[0m[13:23:45] [main/INFO] [forge/FixSSL]: Added Lets Encrypt root certificates as additional trust[0m[m
+[92m2022-07-27 13:23:45 I/MinecraftServerListener: [m[0m[13:23:45] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/E:/Minecraft/server/lsTest/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER[0m[m
+[92m2022-07-27 13:23:46 I/MinecraftServerListener: [m[0m[13:23:46] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release[0m[m
+[92m2022-07-27 13:23:46 I/MinecraftServerListener: [m[0m[13:23:46] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release[0m[m
+[92m2022-07-27 13:23:46 I/MinecraftServerListener: [m[0m[13:23:46] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release[0m[m
+[92m2022-07-27 13:23:46 I/MinecraftServerListener: [m[0m[13:23:46] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge][0m[m
+[92m2022-07-27 13:23:46 I/MinecraftServerListener: [m[0m[13:23:46] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载[0m[m
+[92m2022-07-27 13:23:46 I/MinecraftServerListener: [m[0m[13:23:46] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载[0m[m
+[92m2022-07-27 13:23:46 I/MinecraftServerListener: [m[0m[13:23:46] [main/INFO] [c.m.m.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .][0m[m
+[92m2022-07-27 13:23:48 I/MinecraftServerListener: [m[0m[13:23:48] [main/INFO] [minecraft/Main]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.[0m[m
+[92m2022-07-27 13:23:48 I/MinecraftServerListener: [m[0m[m
+[92m2022-07-27 13:23:48 I/MinecraftServerListener: E:\Minecraft\server\lsTest>pause[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 0:[[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 1:1[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 2:2[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 3::[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 4:2[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 5:3[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 6::[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 7:4[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 8:2[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 9:][0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 10: [0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 11:[[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 12:S[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 13:e[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 14:r[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 15:v[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 16:e[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 17:r[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 18: [0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 19:t[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 20:h[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 21:r[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 22:e[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 23:a[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 24:d[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 25:/[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 26:I[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 27:N[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 28:F[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 29:O[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 30:][0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 31::[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 32: [0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 33:<[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 34:m[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 35:i[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 36:k[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 37:u[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 38:>[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 39: [0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 40:这[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 41:末[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 42:影[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 43:破[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 44:猪[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 45:手[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 46:到[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 47:底[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 48:多[0m[m
+[92m2022-07-27 13:23:50 I/MinecraftServerListener: 49:长[0m[m
+[0m2022-07-27 13:23:50 V/Bot.2452548710: 川流不息(1144786189) -> [12:23:42] [Server thread/INFO]: <miku> 这末影破猪手到底多长[0m[m

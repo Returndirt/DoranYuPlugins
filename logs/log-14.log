@@ -1,0 +1,38 @@
+[92m2022-07-10 02:36:19 I/main: Starting mirai-console...[0m[m
+[92m2022-07-10 02:36:19 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-10 02:36:19 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-10 02:36:19 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-10 02:36:19 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-10 02:36:19 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-10 02:36:19 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-10 02:36:20 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-10 02:36:20 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-10 02:36:20 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-10 02:36:20 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-10 02:36:20 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-10 02:36:20 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-10 02:36:20 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-10 02:36:21 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-10 02:36:21 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-10 02:36:21 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-10 02:36:22 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-10 02:36:22 I/Bot.2452548710: Bot login successful.[0m[m
+[0m2022-07-10 02:36:29 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> BlackJack[0m[m
+[31m2022-07-10 02:36:45 E/BlackJack: Exception in coroutine Plugin com.yu.plugins.BlackJackDuel of BlackJack
+net.mamoe.mirai.contact.MessageTooLargeException: message(we get cards:[mirai:image:{76FD2EA6-7583-EA0D-E90C-3D9115816591}.png][mirai:image:{B4E8889C-82DA-504...) is too large. Allow up to 50 images or 5000 chars
+	at net.mamoe.mirai.internal.contact.UtilKt.verifyLength(util.kt:64)
+	at net.mamoe.mirai.internal.contact.SendMessageHandler.convertToLongMessageIfNeeded(SendMessageHandler.kt:106)
+	at net.mamoe.mirai.internal.contact.SendMessageHandlerKt.sendMessageImpl(SendMessageHandler.kt:366)
+	at net.mamoe.mirai.internal.contact.SendMessageHandlerKt.sendMessage(SendMessageHandler.kt:343)
+	at net.mamoe.mirai.internal.contact.GroupImpl.sendMessage(GroupImpl.kt:185)
+	at com.yu.plugs.PluginMain$onEnable$2.invokeSuspend(PluginMain.kt:494)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+[0m[m

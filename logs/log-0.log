@@ -1,0 +1,79 @@
+[92m2022-06-10 21:21:20 I/main: Starting mirai-console...[0m[m
+[92m2022-06-10 21:21:20 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-06-10 21:21:20 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-06-10 21:21:20 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-06-10 21:21:20 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-06-10 21:21:20 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-06-10 21:21:20 I/main: mirai-console started successfully.[0m[m
+[92m2022-06-10 21:21:20 I/BaroListener: Plugin loaded[0m[m
+[92m2022-06-10 21:21:20 I/BaroListener: watcherMounted[0m[m
+[92m2022-06-10 21:21:20 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-06-10 21:21:20 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[92m2022-06-10 21:21:20 I/BaroListener: Barotrauma Dedicated Server 0.17.16.0 (ReleaseWindows, branch release, revision 05309f303f)[0m[m
+[92m2022-06-10 21:21:20 I/BaroListener: Output redirection detected; colored text and command input will be disabled.[0m[m
+[92m2022-06-10 21:21:20 I/BaroListener: Redirected input is detected but is not supported by this application. Input will be ignored.[0m[m
+[92m2022-06-10 21:21:20 I/BaroListener: Loading game settings[0m[m
+[92m2022-06-10 21:21:21 I/BaroListener: Loading MD5 hash cache[0m[m
+[92m2022-06-10 21:21:21 I/BaroListener: Initializing SteamManager[0m[m
+[92m2022-06-10 21:21:21 I/BaroListener: Initializing GameScreen[0m[m
+[91m2022-06-10 21:21:21 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-06-10 21:21:21 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-06-10 21:21:21 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-06-10 21:21:21 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-06-10 21:21:22 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-06-10 21:21:23 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[91m2022-06-10 21:21:23 W/stderr: Exception in thread "main" net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于6-9 21:13在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:85)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:83)[0m[m
+[92m2022-06-10 21:21:23 I/Bot.2452548710: Bot cancelled: Bot closed[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:193)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	at java.base/java.lang.Thread.run(Thread.java:829)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	Suppressed: StateSwitchingException(old=StateConnecting, new=StateClosed, cause=net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于6-9 21:13在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:297)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:423)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		... 25 more[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于6-9 21:13在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。][0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at kotlinx.coroutines.JobKt.cancel(Unknown Source)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:56)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:206)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 		... 25 more[0m[m
+[91m2022-06-10 21:21:23 W/stderr: 	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于6-9 21:13在【mirai】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。][0m[m
+[92m2022-06-10 21:21:25 I/BaroListener: WARNING: The following errors occurred while loading the content package"DugongL". The package might not work correctly.[0m[m
+[92m2022-06-10 21:21:25 I/BaroListener: Failed to load file "LocalMods/DugongL/DugongL.sub" of type "Submarine": file not found.[0m[m
+[92m2022-06-10 21:21:25 I/BaroListener: Failed to load file "LocalMods/DugongL/Azimuth.sub" of type "Submarine": file not found.[0m[m
+[92m2022-06-10 21:21:26 I/BaroListener: WARNING: The following errors occurred while loading the content package"tester". The package might not work correctly.[0m[m
+[92m2022-06-10 21:21:26 I/BaroListener: Failed to load file "LocalMods/tester/tester.sub" of type "OutpostModule": file not found.[0m[m
+[92m2022-06-10 21:21:26 I/BaroListener: Selected sub: Azimuth[0m[m
+[92m2022-06-10 21:21:26 I/BaroListener: Selected shuttle: Hemulen[0m[m
+[92m2022-06-10 21:21:26 I/BaroListener: [2022/6/10 21:21:25][0m[m
+[92m2022-06-10 21:21:26 I/BaroListener:   Starting the server...[0m[m
+[92m2022-06-10 21:21:26 I/BaroListener: [2022/6/10 21:21:25][0m[m
+[92m2022-06-10 21:21:26 I/BaroListener:   Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses SteamP2P networking and does not require port forwarding).[0m[m
+[92m2022-06-10 21:21:26 I/BaroListener: [2022/6/10 21:21:26][0m[m
+[92m2022-06-10 21:21:26 I/BaroListener:   Server started[0m[m

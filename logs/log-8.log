@@ -1,0 +1,45 @@
+[92m2022-07-09 13:37:41 I/main: Starting mirai-console...[0m[m
+[92m2022-07-09 13:37:41 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-09 13:37:41 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-09 13:37:41 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-09 13:37:42 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-09 13:37:42 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-09 13:37:42 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-09 13:37:42 I/BlackJack: Plugin loaded[0m[m
+[31m2022-07-09 13:37:42 E/BlackJack: java.io.FileNotFoundException: E:\Minecraft\MODsdk\mcServer\Yu-s-Core\data\com.yu.plugins.BlackJackDuel\cards\pts.txt (系统找不到指定的路径。)
+java.io.FileNotFoundException: E:\Minecraft\MODsdk\mcServer\Yu-s-Core\data\com.yu.plugins.BlackJackDuel\cards\pts.txt (系统找不到指定的路径。)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+	at kotlin.io.FilesKt__FileReadWriteKt.writeBytes(FileReadWrite.kt:108)
+	at kotlin.io.FilesKt__FileReadWriteKt.writeText(FileReadWrite.kt:134)
+	at kotlin.io.FilesKt__FileReadWriteKt.writeText$default(FileReadWrite.kt:134)
+	at com.yu.plugs.PluginMain.onEnable(PluginMain.kt:56)
+	at net.mamoe.mirai.console.internal.plugin.JvmPluginInternal.internalOnEnable$mirai_console(JvmPluginInternal.kt:119)
+	at net.mamoe.mirai.console.internal.plugin.BuiltInJvmPluginLoaderImpl.enable(BuiltInJvmPluginLoaderImpl.kt:262)
+	at net.mamoe.mirai.console.internal.plugin.BuiltInJvmPluginLoaderImpl.enable(BuiltInJvmPluginLoaderImpl.kt:34)
+	at net.mamoe.mirai.console.plugin.jvm.JvmPluginLoader$BuiltIn.enable(JvmPluginLoader.kt)
+	at net.mamoe.mirai.console.plugin.jvm.JvmPluginLoader$BuiltIn.enable(JvmPluginLoader.kt:50)
+	at net.mamoe.mirai.console.plugin.PluginManager.enablePlugin(PluginManager.kt:173)
+	at net.mamoe.mirai.console.plugin.PluginManager$INSTANCE.enablePlugin(PluginManager.kt)
+	at com.yu.plugs.RunMiraiKt.main(RunMirai.kt:26)
+	at com.yu.plugs.RunMiraiKt$main$2.invoke(RunMirai.kt)
+	at com.yu.plugs.RunMiraiKt$main$2.invoke(RunMirai.kt)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at kotlin.coroutines.jvm.internal.RunSuspendKt.runSuspend(RunSuspend.kt:19)
+	at com.yu.plugs.RunMiraiKt.main(RunMirai.kt)
+[0m[m
+[92m2022-07-09 13:37:42 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-09 13:37:42 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-09 13:37:42 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-09 13:37:42 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-09 13:37:42 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-09 13:37:42 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-09 13:37:43 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-09 13:37:44 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-09 13:37:44 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-09 13:37:45 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-09 13:37:45 I/Bot.2452548710: Bot login successful.[0m[m

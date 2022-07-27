@@ -1,0 +1,281 @@
+[92m2022-07-27 13:08:50 I/main: Starting mirai-console...[0m[m
+[92m2022-07-27 13:08:50 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-27 13:08:50 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-27 13:08:50 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-27 13:08:50 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-27 13:08:50 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-27 13:08:50 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-27 13:08:50 I/MinecraftServerListener: Plugin loaded[0m[m
+[92m2022-07-27 13:08:50 I/MinecraftServerListener: serverDir:E:\Minecraft\server\lsTest\start.bat groupNum:299372193[0m[m
+[92m2022-07-27 13:08:50 I/MinecraftServerListener: try to find wkDir[0m[m
+[92m2022-07-27 13:08:50 I/MinecraftServerListener: the last / at 26 get wkdir asE:\Minecraft\server\lsTest[0m[m
+[92m2022-07-27 13:08:50 I/WindowHelperJvm: Mirai Ê≠£Âú®‰ΩøÁî®Ê°åÈù¢ÁéØÂ¢É. Â¶ÇÈÅáÂà∞È™åËØÅÁ†ÅÂ∞Ü‰ºöÂºπÂá∫ÂØπËØùÊ°Ü. ÂèØÊ∑ªÂä† JVM Â±ûÊÄß `mirai.no-desktop` ‰ª•ÂÖ≥Èó≠.[0m[m
+[92m2022-07-27 13:08:50 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-27 13:08:51 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-27 13:08:51 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-27 13:08:51 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-27 13:08:51 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-27 13:08:52 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-27 13:08:52 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-27 13:08:52 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-27 13:08:53 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-27 13:08:53 I/MinecraftServerListener: Â∞èËØ≠logged in[0m[m
+[92m2022-07-27 13:08:53 I/MinecraftServerListener: markÂ∞èËØ≠as microphone[0m[m
+[92m2022-07-27 13:08:53 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 13:08:53 I/MinecraftServerListener: D:\QQB\MinecraftListener>java -jar "E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar" [0m[m
+[92m2022-07-27 13:08:53 I/MinecraftServerListener: Ê≠£Âú®‰ΩøÁî® zh_cn ËØ≠Ë®ÄÔºåzh_cn ‰Ωú‰∏∫Â§áÈÄâËØ≠Ë®Ä[0m[m
+[92m2022-07-27 13:08:53 I/MinecraftServerListener: Êñá‰ª∂‰∏çÂÆåÊï¥ÔºåÊ≠£Âú®Ëá™Âä®‰∏ãËΩΩ[0m[m
+[92m2022-07-27 13:08:53 I/MinecraftServerListener: ÊîØÊåÅ MinecraftForge È°πÁõÆ https://www.patreon.com/LexManos/[0m[m
+[92m2022-07-27 13:08:56 I/MinecraftServerListener: forge-1.16.5-36.2.26-installer.jar ‰∏ãËΩΩÂÆåÊàê[0m[m
+[92m2022-07-27 13:09:01 I/MinecraftServerListener: minecraft_server.1.16.5.jar ‰∏ãËΩΩÂÆåÊàê[0m[m
+[92m2022-07-27 13:09:01 I/MinecraftServerListener: Âç≥Â∞ÜÂºÄÂßã Forge ÂÆâË£ÖÔºåËØ∑Á≠âÂæÖ‰∏ÄÊÆµÊó∂Èó¥[0m[m
+[92m2022-07-27 13:09:01 I/MinecraftServerListener: JVM info: Eclipse Adoptium - 11.0.15 - 11.0.15+10[0m[m
+[92m2022-07-27 13:09:01 I/MinecraftServerListener: java.net.preferIPv4Stack=true[0m[m
+[92m2022-07-27 13:09:01 I/MinecraftServerListener: Found java version 11.0.15[0m[m
+[92m2022-07-27 13:09:01 I/MinecraftServerListener: Target Directory: .[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Data kindly mirrored by CreeperHost at https://www.creeperhost.net/[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Extracting main jar:[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   Extracted successfully[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering minecraft server jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Downloading libraries[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Found 2 additional library directories[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:forge:1.16.5-36.2.26[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-commons:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-tree:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-util:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-analysis:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library cpw.mods:modlauncher:8.1.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library cpw.mods:grossjava9hacks:1.3.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:accesstransformers:3.0.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.antlr:antlr4-runtime:4.9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:eventbus:4.0.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:forgespi:3.2.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:coremods:4.0.6[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:unsafe:0.2.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.electronwill.night-config:core:3.6.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.electronwill.night-config:toml:3.6.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.jline:jline:3.12.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.apache.maven:maven-artifact:3.6.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.jodah:typetools:0.8.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.apache.logging.log4j:log4j-api:2.15.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.apache.logging.log4j:log4j-core:2.15.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.apache.logging.log4j:log4j-slf4j18-impl:2.15.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecrell:terminalconsoleappender:1.2.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.sf.jopt-simple:jopt-simple:5.0.4[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.spongepowered:mixin:0.8.4[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:nashorn-core-compat:15.1.1.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.github.jponge:lzma-java:1.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.google.code.findbugs:jsr305:3.0.2[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.google.code.gson:gson:2.8.7[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.google.errorprone:error_prone_annotations:2.1.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.google.guava:guava:20.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.google.guava:guava:25.1-jre[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.google.j2objc:j2objc-annotations:1.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.nothome:javaxdelta:2.0.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library com.opencsv:opencsv:4.4[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library commons-beanutils:commons-beanutils:1.9.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library commons-collections:commons-collections:3.2.2[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library commons-io:commons-io:2.4[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library commons-logging:commons-logging:1.2[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library de.oceanlabs.mcp:mcp_config:1.16.5-20210115.111550@zip[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library de.siegmar:fastcsv:2.0.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.md-5:SpecialSource:1.10.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.md-5:SpecialSource:1.8.5[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:binarypatcher:1.0.12[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:forge:1.16.5-36.2.26:universal[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:installertools:1.2.6[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:jarsplitter:1.1.4[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.minecraftforge:srgutils:0.4.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.sf.jopt-simple:jopt-simple:4.9[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.sf.jopt-simple:jopt-simple:5.0.4[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library net.sf.opencsv:opencsv:2.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.apache.commons:commons-collections4:4.2[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.apache.commons:commons-lang3:3.8.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.apache.commons:commons-text:1.3[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.checkerframework:checker-qual:2.0.0[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.codehaus.mojo:animal-sniffer-annotations:1.14[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-analysis:6.1.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-analysis:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-commons:6.1.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-commons:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-tree:6.1.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm-tree:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm:6.1.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library org.ow2.asm:asm:9.1[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Considering library trove:trove:1.0.2[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   File exists: Checksum validated.[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Created Temporary Directory: C:\Users\11447\AppData\Local\Temp\forge_installer17441705001872858199[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   Extracting: /data/server.lzma[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Building Processors[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: ===============================================================================[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   MainClass: net.minecraftforge.installertools.ConsoleTool[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   Classpath:[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\minecraftforge\installertools\1.2.6\installertools-1.2.6.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\md-5\SpecialSource\1.10.0\SpecialSource-1.10.0.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\com\google\code\gson\gson\2.8.7\gson-2.8.7.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\de\siegmar\fastcsv\2.0.0\fastcsv-2.0.0.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\minecraftforge\srgutils\0.4.3\srgutils-0.4.3.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\ow2\asm\asm-commons\9.1\asm-commons-9.1.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\com\google\guava\guava\20.0\guava-20.0.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\com\opencsv\opencsv\4.4\opencsv-4.4.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\ow2\asm\asm-analysis\9.1\asm-analysis-9.1.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\ow2\asm\asm-tree\9.1\asm-tree-9.1.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\ow2\asm\asm\9.1\asm-9.1.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\apache\commons\commons-text\1.3\commons-text-1.3.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   Args: --task, MCP_DATA, --input, D:\QQB\MinecraftListener\.\libraries\de\oceanlabs\mcp\mcp_config\1.16.5-20210115.111550\mcp_config-1.16.5-20210115.111550.zip, --output, D:\QQB\MinecraftListener\.\libraries\de\oceanlabs\mcp\mcp_config\1.16.5-20210115.111550\mcp_config-1.16.5-20210115.111550-mappings.txt, --key, mappings[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Task: MCP_DATA[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Input:  D:\QQB\MinecraftListener\.\libraries\de\oceanlabs\mcp\mcp_config\1.16.5-20210115.111550\mcp_config-1.16.5-20210115.111550.zip[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Output: D:\QQB\MinecraftListener\.\libraries\de\oceanlabs\mcp\mcp_config\1.16.5-20210115.111550\mcp_config-1.16.5-20210115.111550-mappings.txt[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Key:    mappings[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: Extracting: config/joined.tsrg[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener: ===============================================================================[0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:   Cache: [0m[m
+[92m2022-07-27 13:09:02 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\minecraft\server\1.16.5-20210115.111550\server-1.16.5-20210115.111550-slim.jar Validated: 2042be92779b25878580d9c3662756179a5dc55c[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\minecraft\server\1.16.5-20210115.111550\server-1.16.5-20210115.111550-extra.jar Validated: 48927cadca203a714dcc60ee80533c74e74d3a3f[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:   Cache Hit![0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: ===============================================================================[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:   MainClass: net.md_5.specialsource.SpecialSource[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:   Classpath:[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\md-5\SpecialSource\1.8.5\SpecialSource-1.8.5.jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\ow2\asm\asm-commons\6.1.1\asm-commons-6.1.1.jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\sf\jopt-simple\jopt-simple\4.9\jopt-simple-4.9.jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\com\google\guava\guava\20.0\guava-20.0.jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\sf\opencsv\opencsv\2.3\opencsv-2.3.jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\ow2\asm\asm-analysis\6.1.1\asm-analysis-6.1.1.jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\ow2\asm\asm-tree\6.1.1\asm-tree-6.1.1.jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\org\ow2\asm\asm\6.1.1\asm-6.1.1.jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener:   Args: --in-jar, D:\QQB\MinecraftListener\.\libraries\net\minecraft\server\1.16.5-20210115.111550\server-1.16.5-20210115.111550-slim.jar, --out-jar, D:\QQB\MinecraftListener\.\libraries\net\minecraft\server\1.16.5-20210115.111550\server-1.16.5-20210115.111550-srg.jar, --srg-in, D:\QQB\MinecraftListener\.\libraries\de\oceanlabs\mcp\mcp_config\1.16.5-20210115.111550\mcp_config-1.16.5-20210115.111550-mappings.txt[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Loading mappings[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Loading mappings...  0%[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Loading mappings... 10%[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Loading mappings... 20%[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Loading mappings... 30%[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Loading mappings... 40%[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Loading mappings... 50%[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: 0 packages, 5447 classes, 21481 fields, 38359 methods[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Remapping final jar[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Remapping jar...  0%[0m[m
+[92m2022-07-27 13:09:03 I/MinecraftServerListener: Remapping jar... 10%[0m[m
+[92m2022-07-27 13:09:04 I/MinecraftServerListener: Remapping jar... 20%[0m[m
+[92m2022-07-27 13:09:04 I/MinecraftServerListener: Remapping jar... 30%[0m[m
+[92m2022-07-27 13:09:04 I/MinecraftServerListener: Remapping jar... 40%[0m[m
+[92m2022-07-27 13:09:04 I/MinecraftServerListener: Remapping jar... 50%[0m[m
+[92m2022-07-27 13:09:04 I/MinecraftServerListener: Remapping jar... 60%[0m[m
+[92m2022-07-27 13:09:05 I/MinecraftServerListener: Remapping jar... 70%[0m[m
+[92m2022-07-27 13:09:05 I/MinecraftServerListener: Remapping jar... 80%[0m[m
+[92m2022-07-27 13:09:05 I/MinecraftServerListener: Remapping jar... 90%[0m[m
+[92m2022-07-27 13:09:05 I/MinecraftServerListener: Remapping jar... 100%[0m[m
+[92m2022-07-27 13:09:06 I/MinecraftServerListener: ===============================================================================[0m[m
+[92m2022-07-27 13:09:06 I/MinecraftServerListener:   Cache: [0m[m
+[92m2022-07-27 13:09:06 I/MinecraftServerListener:     D:\QQB\MinecraftListener\.\libraries\net\minecraftforge\forge\1.16.5-36.2.26\forge-1.16.5-36.2.26-server.jar Validated: 0fa3afa7e3ab98aef47dc027e3e4a6558502df7e[0m[m
+[92m2022-07-27 13:09:06 I/MinecraftServerListener:   Cache Hit![0m[m
+[92m2022-07-27 13:09:06 I/MinecraftServerListener: The server installed successfully[0m[m
+[92m2022-07-27 13:09:06 I/MinecraftServerListener: You can delete this installer file now if you wish[0m[m
+[92m2022-07-27 13:09:09 I/MinecraftServerListener: 2022-07-27 13:09:09,386 main WARN JNDI lookup class is not available because this JRE does not support JNDI. JNDI string lookups will not be available, continuing configuration. Ignoring java.lang.ClassCastException: class org.apache.logging.log4j.core.lookup.JndiLookup[0m[m
+[92m2022-07-27 13:09:09 I/MinecraftServerListener: 2022-07-27 13:09:09,436 main WARN Advanced terminal features are not available in this environment[0m[m
+[277‘¬2022 13:09:09.493] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    ‘À––∞Ê±æ arclight-1.16.5-1.0.23-daa3c8bb
+    ππΩ®»’∆⁄ 2022-05-08 03:27:54
+
+[277‘¬2022 13:09:09.509] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.26, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[277‘¬2022 13:09:09.510] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.15 by Eclipse Adoptium
+[277‘¬2022 13:09:09.616] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[277‘¬2022 13:09:09.653] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/D:/QQB/MinecraftListener/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[277‘¬2022 13:09:09.889] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[277‘¬2022 13:09:09.944] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[277‘¬2022 13:09:09.949] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[277‘¬2022 13:09:10.499] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge]
+[277‘¬2022 13:09:10.542] [main/INFO] [Arclight/]: ∫À–ƒ Mixin ≈‰÷√“—º”‘ÿ
+[277‘¬2022 13:09:10.545] [main/INFO] [Arclight/]: ∑˛ŒÒ∂À”≈ªØ Mixin ≈‰÷√“—º”‘ÿ
+[277‘¬2022 13:09:10.553] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[277‘¬2022 13:09:11.957] [main/WARN] [net.minecraft.server.ServerEula/]: Failed to load eula.txt
+[277‘¬2022 13:09:11.965] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+ Nashorn engine is planned to be removed from a future JDK release[0m[m
+[92m2022-07-27 13:09:09 I/MinecraftServerListener: [m[0m[13:09:09] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release[0m[m
+[92m2022-07-27 13:09:10 I/MinecraftServerListener: [m[0m[13:09:10] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge][0m[m
+[92m2022-07-27 13:09:10 I/MinecraftServerListener: [m[0m[13:09:10] [main/INFO] [Arclight/]: Ê†∏ÂøÉ Mixin ÈÖçÁΩÆÂ∑≤Âä†ËΩΩ[0m[m
+[92m2022-07-27 13:09:10 I/MinecraftServerListener: [m[0m[13:09:10] [main/INFO] [Arclight/]: ÊúçÂä°Á´Ø‰ºòÂåñ Mixin ÈÖçÁΩÆÂ∑≤Âä†ËΩΩ[0m[m
+[92m2022-07-27 13:09:10 I/MinecraftServerListener: [m[0m[13:09:10] [main/INFO] [c.m.m.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .][0m[m
+[92m2022-07-27 13:09:11 I/MinecraftServerListener: [m[33m[13:09:11] [main/WARN] [minecraft/ServerEula]: Failed to load eula.txt[0m[m
+[92m2022-07-27 13:09:11 I/MinecraftServerListener: [m[0m[13:09:11] [main/INFO] [minecraft/Main]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.[0m[m
+[92m2022-07-27 13:09:12 I/MinecraftServerListener: [m[0m[m
+[92m2022-07-27 13:09:12 I/MinecraftServerListener: D:\QQB\MinecraftListener>pause[0m[m

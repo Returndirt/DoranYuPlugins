@@ -1,0 +1,107 @@
+[92m2022-07-27 13:24:55 I/main: Starting mirai-console...[0m[m
+[92m2022-07-27 13:24:55 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-27 13:24:55 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-27 13:24:55 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-27 13:24:56 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-27 13:24:56 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-27 13:24:56 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-27 13:24:56 I/MinecraftServerListener: Plugin loaded[0m[m
+[92m2022-07-27 13:24:56 I/MinecraftServerListener: serverDir:E:\Minecraft\server\lsTest\start.bat groupNum:299372193[0m[m
+[92m2022-07-27 13:24:56 I/MinecraftServerListener: try to find wkDir[0m[m
+[92m2022-07-27 13:24:56 I/MinecraftServerListener: the last / at 26 get wkdir asE:\Minecraft\server\lsTest[0m[m
+[92m2022-07-27 13:24:56 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-27 13:24:56 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-27 13:24:56 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-27 13:24:56 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-27 13:24:56 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-27 13:24:56 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-27 13:24:57 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-27 13:24:57 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-27 13:24:57 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-27 13:24:58 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-27 13:24:58 I/MinecraftServerListener: 小语logged in[0m[m
+[92m2022-07-27 13:24:58 I/MinecraftServerListener: mark小语as microphone[0m[m
+[92m2022-07-27 13:24:58 I/MinecraftServerListener: [0m[m
+[31m2022-07-27 13:24:58 E/MinecraftServerListener: Exception in coroutine Plugin com.yu.plugins.MCListener of MinecraftServerListener
+java.lang.StringIndexOutOfBoundsException: String index out of range: 33
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:47)
+	at java.base/java.lang.String.charAt(String.java:693)
+	at com.yu.plugs.PluginMain.onEnable$listenServer(PluginMain.kt:89)
+	at com.yu.plugs.PluginMain.access$onEnable$listenServer(PluginMain.kt:43)
+	at com.yu.plugs.PluginMain$onEnable$6.invokeSuspend(PluginMain.kt:180)
+	at com.yu.plugs.PluginMain$onEnable$6.invoke(PluginMain.kt)
+	at com.yu.plugs.PluginMain$onEnable$6.invoke(PluginMain.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:455)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invokeSuspend(InternalEventListeners.kt:50)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at net.mamoe.mirai.internal.event.Handler$onEvent$2.invoke(InternalEventListeners.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:89)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:166)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.event.Handler.onEvent(InternalEventListeners.kt:50)
+	at net.mamoe.mirai.internal.event.InternalEventListenersKt.process(InternalEventListeners.kt:166)
+	at net.mamoe.mirai.internal.event.InternalEventListenersKt.callAndRemoveIfRequired(InternalEventListeners.kt:115)
+	at net.mamoe.mirai.event._EventBroadcast.broadcastImpl(Event.kt:174)
+	at net.mamoe.mirai.IMirai.broadcastEvent$suspendImpl(IMirai.kt:319)
+	at net.mamoe.mirai.IMirai.broadcastEvent(IMirai.kt)
+	at net.mamoe.mirai.internal.MiraiImpl.broadcastEvent$suspendImpl(MiraiImpl.kt:303)
+	at net.mamoe.mirai.internal.MiraiImpl.broadcastEvent(MiraiImpl.kt)
+	at net.mamoe.mirai.event._EventBroadcast.broadcastPublic$suspendImpl(Event.kt:161)
+	at net.mamoe.mirai.event._EventBroadcast.broadcastPublic(Event.kt)
+	at net.mamoe.mirai.event.EventKt.broadcast(Event.kt:146)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcast$2.invokeSuspend(EventDispatcher.kt:90)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcast$2.invoke(EventDispatcher.kt)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcast$2.invoke(EventDispatcher.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:89)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:166)
+	at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl.broadcast$suspendImpl(EventDispatcher.kt:89)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl.broadcast(EventDispatcher.kt)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcastAsync$job$1.invokeSuspend(EventDispatcher.kt:105)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcastAsync$job$1.invoke(EventDispatcher.kt)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl$broadcastAsync$job$1.invoke(EventDispatcher.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at net.mamoe.mirai.internal.network.components.EventDispatcherImpl.broadcastAsync-kKe4JaQ(EventDispatcher.kt:102)
+	at net.mamoe.mirai.internal.network.components.EventDispatcher.broadcastAsync-kKe4JaQ$default(EventDispatcher.kt:35)
+	at net.mamoe.mirai.internal.QQAndroidBot$stateObserverChain$1.stateChanged0(QQAndroidBot.kt:101)
+	at net.mamoe.mirai.internal.network.handler.state.StateChangedObserver.stateChanged(StateChangedObserver.kt:93)
+	at net.mamoe.mirai.internal.network.handler.state.CombinedStateObserver.stateChanged(CombinedStateObserver.kt:31)
+	at net.mamoe.mirai.internal.network.handler.state.SafeStateObserver.stateChanged(SafeStateObserver.kt:55)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:300)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateLoading.resumeConnection0(NettyNetworkHandler.kt:426)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateLoading$resumeConnection0$1.invokeSuspend(NettyNetworkHandler.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:178)
+	at kotlinx.coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:166)
+	at kotlinx.coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:397)
+	at kotlinx.coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:431)
+	at kotlinx.coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:420)
+	at kotlinx.coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:328)
+	at kotlinx.coroutines.ResumeOnCompletion.invoke(JobSupport.kt:1397)
+	at kotlinx.coroutines.JobSupport.notifyCompletion(JobSupport.kt:1519)
+	at kotlinx.coroutines.JobSupport.completeStateFinalization(JobSupport.kt:323)
+	at kotlinx.coroutines.JobSupport.finalizeFinishingState(JobSupport.kt:240)
+	at kotlinx.coroutines.JobSupport.continueCompleting(JobSupport.kt:935)
+	at kotlinx.coroutines.JobSupport.access$continueCompleting(JobSupport.kt:27)
+	at kotlinx.coroutines.JobSupport$ChildCompletion.invoke(JobSupport.kt:1155)
+	at kotlinx.coroutines.JobSupport.notifyCompletion(JobSupport.kt:1519)
+	at kotlinx.coroutines.JobSupport.completeStateFinalization(JobSupport.kt:323)
+	at kotlinx.coroutines.JobSupport.finalizeFinishingState(JobSupport.kt:240)
+	at kotlinx.coroutines.JobSupport.tryMakeCompletingSlowPath(JobSupport.kt:906)
+	at kotlinx.coroutines.JobSupport.tryMakeCompleting(JobSupport.kt:863)
+	at kotlinx.coroutines.JobSupport.makeCompletingOnce$kotlinx_coroutines_core(JobSupport.kt:828)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:100)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+[0m[m
+[92m2022-07-27 13:24:58 I/Bot.2452548710: Bot login successful.[0m[m

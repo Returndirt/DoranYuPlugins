@@ -1,0 +1,377 @@
+[92m2022-07-27 14:40:49 I/main: Starting mirai-console...[0m[m
+[92m2022-07-27 14:40:49 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-27 14:40:49 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-27 14:40:49 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-27 14:40:49 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-27 14:40:49 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-27 14:40:49 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-27 14:40:49 I/MinecraftServerListener: Plugin loaded[0m[m
+[92m2022-07-27 14:40:49 I/MinecraftServerListener: serverDir:E:\Minecraft\server\lsTest\start.bat groupNum:299372193[0m[m
+[92m2022-07-27 14:40:49 I/MinecraftServerListener: try to find wkDir[0m[m
+[92m2022-07-27 14:40:49 I/MinecraftServerListener: the last / at 26 get wkdir asE:\Minecraft\server\lsTest[0m[m
+[92m2022-07-27 14:40:49 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-27 14:40:49 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-27 14:40:49 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-27 14:40:49 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-27 14:40:49 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-27 14:40:49 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-27 14:40:51 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-27 14:40:51 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-27 14:40:51 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-27 14:40:52 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-27 14:40:52 I/MinecraftServerListener: 小语logged in[0m[m
+[92m2022-07-27 14:40:52 I/MinecraftServerListener: mark小语as microphone[0m[m
+[92m2022-07-27 14:40:52 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 14:40:52 I/MinecraftServerListener: E:\Minecraft\server\lsTest>java -jar "E:\Minecraft\server\lsTest\arclight-forge-1.16.5-1.0.23.jar" [0m[m
+[92m2022-07-27 14:40:52 I/MinecraftServerListener: \[0m[m
+[92m2022-07-27 14:40:52 I/MinecraftServerListener: 正在使用 zh_cn 语言，zh_cn 作为备选语言[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: 2022-07-27 14:40:55,664 main WARN JNDI lookup class is not available because this JRE does not support JNDI. JNDI string lookups will not be available, continuing configuration. Ignoring java.lang.ClassCastException: class org.apache.logging.log4j.core.lookup.JndiLookup[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: o[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: 2022-07-27 14:40:55,714 main WARN Advanced terminal features are not available in this environment[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: e[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: [0m[14:40:55] [main/INFO] [Arclight/]: [0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener:        ___           ___     __   /\[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener:       /   | ________/ (_)__ / /  / /[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener:      / /| |/ __/ __/ / / _ / _ \/__/[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener:     / ___ / / / /_/ / / / / // / /[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener:    /_/  |/_/  \__/_/_/\_ /_//_/ /[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener:                      /__/     \/[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener:     运行版本 arclight-1.16.5-1.0.23-daa3c8bb[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener:     构建日期 2022-05-08 03:27:54[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: [0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: [m[0m[14:40:55] [main/INFO] [c.m.m.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.26, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge][0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: n[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: [m[0m[14:40:55] [main/INFO] [c.m.m.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.15 by Eclipse Adoptium[0m[m
+[92m2022-07-27 14:40:55 I/MinecraftServerListener: n[0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener: [m[0m[14:40:56] [main/INFO] [forge/FixSSL]: Added Lets Encrypt root certificates as additional trust[0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener: S[0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener: [m[0m[14:40:56] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/E:/Minecraft/server/lsTest/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER[0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener: S[0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener: [m[0m[14:40:56] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release[0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener:  [0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener: [m[0m[14:40:56] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release[0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener:  [0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener: [m[0m[14:40:56] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release[0m[m
+[92m2022-07-27 14:40:56 I/MinecraftServerListener:  [0m[m
+[92m2022-07-27 14:40:57 I/MinecraftServerListener: [m[0m[14:40:57] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge][0m[m
+[92m2022-07-27 14:40:57 I/MinecraftServerListener: S[0m[m
+[92m2022-07-27 14:40:57 I/MinecraftServerListener: [m[0m[14:40:57] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载[0m[m
+[92m2022-07-27 14:40:57 I/MinecraftServerListener: ][0m[m
+[92m2022-07-27 14:40:57 I/MinecraftServerListener: [m[0m[14:40:57] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载[0m[m
+[92m2022-07-27 14:40:57 I/MinecraftServerListener: ][0m[m
+[92m2022-07-27 14:40:57 I/MinecraftServerListener: [m[0m[14:40:57] [main/INFO] [c.m.m.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .][0m[m
+[92m2022-07-27 14:40:57 I/MinecraftServerListener: n[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: [m[0m[14:41:04] [modloading-worker-11/INFO] [Arclight/]: Arclight Mod 已加载[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: I[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: [m[0m[14:41:04] [modloading-worker-2/INFO] [forge/ForgeMod]: Forge mod loading, version 36.2.26, for MC 1.16.5 with MCP 20210115.111550[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: N[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: [m[0m[14:41:04] [modloading-worker-2/INFO] [forge/MinecraftForge]: MinecraftForge v36.2.26 Initialized[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: N[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: [m[0m[14:41:04] [modloading-worker-11/INFO] [Arclight/]: Arclight 事件系统已注册[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: I[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: [m[33m[14:41:04] [modloading-worker-11/WARN] [forge/PermissionAPI]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with io.izzel.arclight.common.mod.server.ArclightPermissionHandler[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: /[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: [m[0m[14:41:04] [Forge Version Check/INFO] [forge/VersionChecker]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json[0m[m
+[92m2022-07-27 14:41:04 I/MinecraftServerListener: N[0m[m
+[92m2022-07-27 14:41:05 I/MinecraftServerListener: [m[0m[14:41:05] [Forge Version Check/INFO] [forge/VersionChecker]: [forge] Found status: OUTDATED Current: 36.2.26 Target: 36.2.34[0m[m
+[92m2022-07-27 14:41:05 I/MinecraftServerListener: N[0m[m
+[92m2022-07-27 14:41:05 I/MinecraftServerListener: [m[0m[14:41:05] [main/INFO] [mojang/YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'[0m[m
+[92m2022-07-27 14:41:05 I/MinecraftServerListener: g[0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: [m[33m[14:41:06] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498][0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: t[0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: [m[33m[14:41:06] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0][0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: t[0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: [m[33m[14:41:06] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0][0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: t[0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: [m[33m[14:41:06] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498][0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: t[0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: [m[33m[14:41:06] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0][0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: t[0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: [m[0m[14:41:06] [main/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, forge-1.16.5-36.2.26-universal.jar, arclight-forge-1.16.5-1.0.23.jar[0m[m
+[92m2022-07-27 14:41:06 I/MinecraftServerListener: /[0m[m
+[92m2022-07-27 14:41:07 I/MinecraftServerListener: [m[0m[14:41:07] [Worker-Main-14/INFO] [minecraft/RecipeManager]: Loaded 7 recipes[0m[m
+[92m2022-07-27 14:41:07 I/MinecraftServerListener: [[0m[m
+[92m2022-07-27 14:41:07 I/MinecraftServerListener: [m[0m[14:41:07] [Worker-Main-14/INFO] [minecraft/AdvancementList]: Loaded 927 advancements[0m[m
+[92m2022-07-27 14:41:07 I/MinecraftServerListener: [[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: [m[0m[14:41:09] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.16.5[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: [m[0m[14:41:09] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: [m[0m[14:41:09] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: [m[0m[14:41:09] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: [m[0m[14:41:09] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: [m[0m[14:41:09] [Server thread/INFO] [minecraft/NetworkSystem]: Using default channel type[0m[m
+[92m2022-07-27 14:41:09 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:10 I/MinecraftServerListener: [m[0m[14:41:10] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.16.5-1.0.23-daa3c8bb (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)[0m[m
+[92m2022-07-27 14:41:10 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:10 I/MinecraftServerListener: [m[0m[14:41:10] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...[0m[m
+[92m2022-07-27 14:41:10 I/MinecraftServerListener: A[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Arclight/]: 注册了 0 个材料，其中 0 个方块 0 个物品[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: A[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: A[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Arclight/]: 注册了 38 个新的附魔[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: A[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物类型[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: A[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: A[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: A[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Debug logging is enabled[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [STDOUT/]: [org.spigotmc.SpigotConfig:playerSample:287]: Server Ping Player Sample Count: 12[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: S[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Arclight/]: 注册了 1 个新的世界类型[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: A[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: View Distance: 10[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: View Distance: 10[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: View Distance: 10[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: M[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: [m[0m[14:41:11] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld[0m[m
+[92m2022-07-27 14:41:11 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:12 I/MinecraftServerListener: [m[0m[14:41:12] [Server thread/INFO] [minecraft/LoggingChunkStatusListener]: Preparing spawn area: 0%[0m[m
+[92m2022-07-27 14:41:12 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:12 I/MinecraftServerListener: [m[0m[14:41:12] [Server thread/INFO] [minecraft/LoggingChunkStatusListener]: Preparing spawn area: 4%[0m[m
+[92m2022-07-27 14:41:12 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:13 I/MinecraftServerListener: [m[0m[14:41:13] [Worker-Main-9/INFO] [minecraft/LoggingChunkStatusListener]: Preparing spawn area: 83%[0m[m
+[92m2022-07-27 14:41:13 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:13 I/MinecraftServerListener: [m[0m[14:41:13] [Worker-Main-14/INFO] [minecraft/LoggingChunkStatusListener]: Preparing spawn area: 83%[0m[m
+[92m2022-07-27 14:41:13 I/MinecraftServerListener: [[0m[m
+[92m2022-07-27 14:41:13 I/MinecraftServerListener: [m[0m[14:41:13] [Worker-Main-8/INFO] [minecraft/LoggingChunkStatusListener]: Preparing spawn area: 83%[0m[m
+[92m2022-07-27 14:41:13 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:14 I/MinecraftServerListener: [m[0m[14:41:14] [Worker-Main-13/INFO] [minecraft/LoggingChunkStatusListener]: Preparing spawn area: 83%[0m[m
+[92m2022-07-27 14:41:14 I/MinecraftServerListener: [[0m[m
+[92m2022-07-27 14:41:14 I/MinecraftServerListener: [m[0m[14:41:14] [Worker-Main-13/INFO] [minecraft/LoggingChunkStatusListener]: Preparing spawn area: 84%[0m[m
+[92m2022-07-27 14:41:14 I/MinecraftServerListener: [[0m[m
+[92m2022-07-27 14:41:15 I/MinecraftServerListener: [m[0m[14:41:15] [Worker-Main-13/INFO] [minecraft/LoggingChunkStatusListener]: Preparing spawn area: 90%[0m[m
+[92m2022-07-27 14:41:15 I/MinecraftServerListener: [[0m[m
+[92m2022-07-27 14:41:15 I/MinecraftServerListener: [m[0m[14:41:15] [Server thread/INFO] [minecraft/LoggingChunkStatusListener]: Time elapsed: 3855 ms[0m[m
+[92m2022-07-27 14:41:15 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:15 I/MinecraftServerListener: [m[0m[14:41:15] [Server thread/INFO] [minecraft/DedicatedServer]: Done (4.096s)! For help, type "help"[0m[m
+[92m2022-07-27 14:41:15 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/ChunkManager]: ThreadedAnvilChunkStorage (world): All chunks are saved[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/ChunkManager]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/ChunkManager]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/ChunkManager]: ThreadedAnvilChunkStorage (world): All chunks are saved[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/ChunkManager]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: [m[0m[14:41:46] [Server thread/INFO] [minecraft/ChunkManager]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved[0m[m
+[92m2022-07-27 14:41:46 I/MinecraftServerListener: m[0m[m
+[92m2022-07-27 14:41:48 I/MinecraftServerListener: [m[0m[m
+[92m2022-07-27 14:41:48 I/MinecraftServerListener: E:\Minecraft\server\lsTest>pause[0m[m

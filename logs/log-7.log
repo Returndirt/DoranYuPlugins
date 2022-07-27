@@ -1,0 +1,29 @@
+[92m2022-06-10 22:11:16 I/main: Starting mirai-console...[0m[m
+[92m2022-06-10 22:11:16 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-06-10 22:11:16 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-06-10 22:11:16 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-06-10 22:11:16 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-06-10 22:11:16 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-06-10 22:11:16 I/main: mirai-console started successfully.[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: Plugin loaded[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: watcherMounted[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: Barotrauma Dedicated Server 0.17.16.0 (ReleaseWindows, branch release, revision 05309f303f)[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: Output redirection detected; colored text and command input will be disabled.[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: Redirected input is detected but is not supported by this application. Input will be ignored.[0m[m
+[92m2022-06-10 22:11:16 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-06-10 22:11:16 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: Loading game settings[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: Loading MD5 hash cache[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: Initializing SteamManager[0m[m
+[92m2022-06-10 22:11:16 I/BaroListener: Initializing GameScreen[0m[m
+[91m2022-06-10 22:11:16 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-06-10 22:11:16 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-06-10 22:11:16 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-06-10 22:11:16 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-06-10 22:11:18 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-06-10 22:11:18 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-06-10 22:11:18 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-06-10 22:11:19 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-06-10 22:11:19 I/Bot.2452548710: Bot login successful.[0m[m
+[92m2022-06-10 22:11:20 I/BaroListener: Selected sub: Azimuth[0m[m
+[0m2022-06-10 22:11:21 V/Bot.2452548710: Group(668123407) <- Selected sub: Azimuth[0m[m

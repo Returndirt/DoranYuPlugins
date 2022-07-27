@@ -1,0 +1,67 @@
+[92m2022-07-18 12:05:31 I/main: Starting mirai-console...[0m[m
+[92m2022-07-18 12:05:31 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-18 12:05:31 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-18 12:05:31 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-18 12:05:31 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-18 12:05:31 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-18 12:05:31 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-18 12:05:31 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-18 12:05:31 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-18 12:05:31 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-18 12:05:32 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-18 12:05:32 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-18 12:05:32 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-18 12:05:32 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-18 12:05:33 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-18 12:05:34 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-18 12:05:34 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-18 12:05:35 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-18 12:05:35 I/Bot.2452548710: Bot login successful.[0m[m
+[0m2022-07-18 12:05:46 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 无尽赌徒，出来！[0m[m
+[0m2022-07-18 12:06:10 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 刚去摸了把原神[0m[m
+[0m2022-07-18 12:06:17 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 我的评价是完全不如巫师三[0m[m
+[0m2022-07-18 12:06:22 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 更不如猎[0m[m
+[0m2022-07-18 12:06:36 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 你的意思是巫师三不如猎吗[0m[m
+[0m2022-07-18 12:08:07 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 巫师三单就我个人体感而言在画风上接受不如猎[0m[m
+[0m2022-07-18 12:08:13 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 太阴冷了[0m[m
+[0m2022-07-18 12:08:28 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 那你打不来魂3了[0m[m
+[0m2022-07-18 12:08:31 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 令人感叹[0m[m
+[0m2022-07-18 12:08:51 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] KKoishi_(1580412105) -> 那你来玩光环无限吧[0m[m
+[0m2022-07-18 12:08:59 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 即便如此我还是很想打巫师三但[0m[m
+[0m2022-07-18 12:09:04 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 那你去玩光环无限吧[0m[m
+[0m2022-07-18 12:09:10 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] KKoishi_(1580412105) -> 那你去玩光环无限吧[0m[m
+[0m2022-07-18 12:09:12 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 主要是买都买了在我电脑占了50G硬盘[0m[m
+[0m2022-07-18 12:09:26 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> [mirai:quote:[71936],[621924198]][mirai:at:1580412105] 感觉不如原神...风评负面[0m[m
+[0m2022-07-18 12:09:44 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] KKoishi_(1580412105) -> 物以类聚 我觉得你比较适合和光环无限[0m[m
+[0m2022-07-18 12:09:46 V/Bot.2452548710: Event: GroupRecall(bot=Bot(2452548710), authorId=1580412105, messageIds=[71942], messageInternalIds=[1422463336], messageTime=1658117386, operator=NormalMember(1580412105), group=Group(279023008), author=NormalMember(1580412105))[0m[m
+[0m2022-07-18 12:09:51 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 原神是路人风评差[0m[m
+[0m2022-07-18 12:10:02 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] KKoishi_(1580412105) -> 物以类聚 我觉得你比较适合光环无限[0m[m
+[0m2022-07-18 12:10:02 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 光环无限是粉丝风评差[0m[m
+[0m2022-07-18 12:10:18 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 含粪量显然无限高一点[0m[m
+[0m2022-07-18 12:10:27 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] 辣稽(401430205) -> [mirai:image:{F253AA83-B186-F442-9431-BDCC01AE1E30}.jpg][0m[m
+[0m2022-07-18 12:10:27 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 物以类聚，我还是在Hyper-V装个win11玩吧[0m[m
+[0m2022-07-18 12:10:44 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 有种在MacOS上装安卓的快感[0m[m
+[0m2022-07-18 12:11:28 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 秦取感是吧[0m[m
+[0m2022-07-18 12:11:38 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] 《二游玩到最后都是“哈哈，SB游戏”》(2938546235) -> [mirai:image:{24790FE9-A10F-4C30-55FC-A4A9BEC3332B}.jpg][0m[m
+[0m2022-07-18 12:11:45 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 戳啦，异食癖嘛[0m[m
+[0m2022-07-18 12:11:48 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] 《二游玩到最后都是“哈哈，SB游戏”》(2938546235) -> 快进到实名上网[0m[m
+[0m2022-07-18 12:12:12 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 我觉得问题不大[0m[m
+[0m2022-07-18 12:12:32 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 线上放飞线下收敛的人怕实名上网[0m[m
+[0m2022-07-18 12:12:50 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 你们这帮人线下完全不收敛的[0m[m
+[0m2022-07-18 12:13:12 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] 《二游玩到最后都是“哈哈，SB游戏”》(2938546235) -> [mirai:image:{304DE56C-B3C5-D38D-BD62-41042317ABDD}.jpg][0m[m
+[0m2022-07-18 12:13:25 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> [mirai:quote:[71956],[1139593725]][mirai:at:1144786189] 指六次单杀吗[0m[m
+[0m2022-07-18 12:15:14 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> [mirai:image:{296D1033-1557-FEA1-E682-8EE35679F8F9}.png][0m[m
+[0m2022-07-18 12:15:19 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 我觉得OGRE有搞头[0m[m
+[0m2022-07-18 12:15:23 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 支持语言很多的[0m[m
+[0m2022-07-18 12:15:33 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> [mirai:at:1580412105][0m[m
+[0m2022-07-18 12:16:14 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> [mirai:image:{A3390A4E-1EF1-DC97-57EE-EF54C4889A3D}.jpg][0m[m
+[0m2022-07-18 12:16:18 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] ctfer去kali加Ubuntu(1144786189) -> 我决定原地成立开发组[0m[m
+[0m2022-07-18 12:16:25 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> 什么b名字[0m[m
+[0m2022-07-18 12:16:36 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> BlackJack[0m[m
+[0m2022-07-18 12:16:40 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 你也说[0m[m
+[0m2022-07-18 12:16:41 V/Bot.2452548710: Group(299372193) <- we get cards:[mirai:image:{76FD2EA6-7583-EA0D-E90C-3D9115816591}.png][mirai:image:{5F45DF14-6901-1D62-2A66-4F0185B2E431}.png][mirai:image:{5E9C6CED-C18C-DD35-1E35-0A0CD75DA814}.png][mirai:image:{7D445F6E-559B-7F5C-3B92-0EDCBC4C8489}.png][mirai:image:{BDE745E1-9E85-2D0D-0C0C-ED3497D915D7}.png][mirai:image:{2552D5CC-36F5-2903-0FF0-5E27274450B0}.png][mirai:image:{ACBA6615-5A0D-2886-8806-A3069989E4AA}.png][mirai:image:{B93E8FF1-92BA-6EE2-B713-791E70D28DD4}.png][mirai:image:{06532DC5-063C-6245-2C22-708D0E6E2025}.png][mirai:image:{48F7E939-A4BF-4AE6-1123-7AE188A9F727}.png][mirai:image:{BCA115D3-330B-C1F5-C110-03E254C361E2}.png][mirai:image:{C78178F1-F6C5-8CE0-17C8-0FFCC77684C4}.png][mirai:image:{55801F90-06F0-F001-62FB-D0A129E146AD}.png][0m[m
+[0m2022-07-18 12:16:50 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 草 忘记注释掉了[0m[m
+[0m2022-07-18 12:16:53 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> 等一下[0m[m
+[0m2022-07-18 12:16:57 V/Bot.2452548710: [bottest(299372193)] 正在划水的焼団子(1145088599) -> [mirai:image:{C53F227A-BFF0-4E8A-BC64-F9F938E4EBB1}.jpg][0m[m
+[0m2022-07-18 12:17:50 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 看着有点意思[0m[m
+[0m2022-07-18 12:18:02 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] I have no sex but i fuck Microsoft everyday(739786190) -> 我决定原地加入4妈开发组[0m[m

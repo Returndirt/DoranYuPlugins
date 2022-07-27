@@ -1,0 +1,38 @@
+[92m2022-07-19 20:27:43 I/main: Starting mirai-console...[0m[m
+[92m2022-07-19 20:27:43 I/main: Backend: version 2.11.1, built on 2022-05-26 04:43:10.[0m[m
+[92m2022-07-19 20:27:43 I/main: Frontend Terminal: version 2.11.1, provided by Mamoe Technologies[0m[m
+[92m2022-07-19 20:27:43 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[92m2022-07-19 20:27:44 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-19 20:27:44 I/main: 0 plugin(s) enabled.[0m[m
+[92m2022-07-19 20:27:44 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-19 20:27:44 I/BlackJack: Plugin loaded[0m[m
+[92m2022-07-19 20:27:44 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-19 20:27:44 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-19 20:27:44 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-19 20:27:44 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-19 20:27:44 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[91m2022-07-19 20:27:44 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-19 20:27:45 I/Bot.2452548710: Loaded account secrets from local cache.[0m[m
+[92m2022-07-19 20:27:45 I/Bot.2452548710: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-19 20:27:46 I/Bot.2452548710: Login successful.[0m[m
+[0m2022-07-19 20:27:46 V/Bot.2452548710: Event: BotOnlineEvent(bot=Bot(2452548710))[0m[m
+[92m2022-07-19 20:27:46 I/Bot.2452548710: Bot login successful.[0m[m
+[0m2022-07-19 20:34:57 V/Bot.2452548710: [多兰老狼法兰老狼交界地老狼分狼（法兰乳业）(279023008)] JustinWalker(2964367986) -> [mirai:app:{"app":"com.tencent.miniapp_01","config":{"autoSize":0,"ctime":1658234101,"forward":1,"height":0,"token":"165d7c565ad13c7e56aabba1e29bdb23","type":"normal","width":0},"desc":"哔哩哔哩","extra":{"app_type":1,"appid":100951776,"uin":2964367986},"meta":{"detail_1":{"appType":0,"appid":"1109937557","desc":"【MHWI】怪物猎人世界冰原武器上手指南——盾斧","gamePoints":"","gamePointsUrl":"","host":{"nick":"JustinWalker","uin":2964367986},"icon":"http://miniapp.gtimg.cn/public/appicon/432b76be3a548fc128acaa6c1ec90131_200.jpg","preview":"pubminishare-30161.picsz.qpic.cn/d3f154d1-98d1-4bc3-aad1-13e380759fdc","qqdocurl":"https://b23.tv/I0wra5x?share_medium=android&share_source=qq&bbid=XX6E08B6CDB1F9577E5B937D6030C718832FF&ts=1658234095423","scene":1036,"shareTemplateData":{},"shareTemplateId":"8C8E89B49BE609866298ADDFF2DBABA4","showLittleTail":"","title":"哔哩哔哩","url":"m.q.qq.com/a/s/71cd6d4f443e9aa5e480c434c841e42e"}},"needShareCallBack":false,"prompt":"[QQ小程序]哔哩哔哩","ver":"1.0.0.19","view":"view_8C8E89B49BE609866298ADDFF2DBABA4"}][0m[m
+[92m2022-07-19 20:36:15 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-19 20:36:15 I/BlackJack: 川流不息want to duel and there are vally 299372193has 0 person[0m[m
+[0m2022-07-19 20:36:15 V/Bot.2452548710: [bottest(299372193)] 川流不息(1144786189) -> duel[0m[m
+[92m2022-07-19 20:36:32 I/BlackJack: get BlackJack Input[0m[m
+[92m2022-07-19 20:36:32 I/BlackJack: 小屿want to duel[0m[m
+[92m2022-07-19 20:36:32 I/BlackJack: two peoples , game start[0m[m
+[0m2022-07-19 20:36:32 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> duel[0m[m
+[0m2022-07-19 20:36:32 V/Bot.2452548710: Friend(1144786189) <- 操作：hit 拿牌；stand 停牌；double 翻倍停叫[0m[m
+[0m2022-07-19 20:36:32 V/Bot.2452548710: Friend(1144786189) <- 你是后手，在领先对手三分或三分以上以上时获胜[0m[m
+[0m2022-07-19 20:36:33 V/Bot.2452548710: Friend(3511809239) <- 操作：hit 拿牌；stand 停牌；double 翻倍停叫[0m[m
+[0m2022-07-19 20:36:33 V/Bot.2452548710: Friend(3511809239) <- 你是先手，在领先对手三分或三分以上以上时获胜[0m[m
+[0m2022-07-19 20:36:34 V/Bot.2452548710: Friend(1144786189) <- [mirai:image:{B4E8889C-82DA-504C-BD1C-CC8479DF5C9D}.png][mirai:image:{D5BBADFB-7D74-EBE5-FF31-05384302BCC7}.png][0m[m
+[0m2022-07-19 20:36:35 V/Bot.2452548710: Friend(3511809239) <- [mirai:image:{48F7E939-A4BF-4AE6-1123-7AE188A9F727}.png][mirai:image:{F32ECAEF-3070-5380-8C87-07EF02AE7DFD}.png][0m[m
+[0m2022-07-19 20:36:36 V/Bot.2452548710: Group(299372193) <- 川流不息明牌：[mirai:image:{B4E8889C-82DA-504C-BD1C-CC8479DF5C9D}.png][0m[m
+[0m2022-07-19 20:36:36 V/Bot.2452548710: Group(299372193) <- 小屿明牌：[mirai:image:{48F7E939-A4BF-4AE6-1123-7AE188A9F727}.png][0m[m
+[92m2022-07-19 20:37:01 I/BlackJack: get input[0m[m
+[0m2022-07-19 20:37:01 V/Bot.2452548710: 小屿(3511809239) -> hit[0m[m
+[0m2022-07-19 20:37:18 V/Bot.2452548710: [bottest(299372193)] 小屿(3511809239) -> hit[0m[m
