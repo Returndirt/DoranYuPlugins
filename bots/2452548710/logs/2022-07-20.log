@@ -1,0 +1,139 @@
+[0m2022-07-20 16:28:34 V/Net 2452548710: Loading server list from cache.[0m
+[92m2022-07-20 16:28:34 I/Net 2452548710: Server list: 36.155.213.142:80, 111.31.200.230:80, 120.232.130.20:80, 120.232.69.217:443, msfwifi.3g.qq.com:8080, 120.232.67.211:80, 111.31.205.244:443, 111.30.169.125:8080, 111.30.169.45:8080, 36.155.245.243:14000.[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: ECDH key is valid.[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: wtlogin.exchange_emp[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: StatSvc.register(online)[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: Server time updated, serverTime: 1658305715, diff: 0ms=0.0s[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Recv: StatSvc.register[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Loading BdhSession from cache file[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: Syncing friend message history...[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: Start loading stranger list...[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: Start loading friend list...[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: No OtherClient online.[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: Start loading group list...[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Recv: OidbSvc.0x496[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Loading friend list: 5/5[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: Successfully loaded friend list: 5 in total[0m
+[92m2022-07-20 16:28:35 I/Net 2452548710: Syncing friend message history: Success.[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-20 16:28:35 V/Net 2452548710: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-20 16:28:36 V/Net 2452548710: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-20 16:28:36 V/Net 2452548710: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-20 16:28:36 V/Net 2452548710: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-20 16:28:36 V/Net 2452548710: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-20 16:28:36 V/Net 2452548710: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-20 16:28:36 V/Net 2452548710: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-20 16:28:36 V/Net 2452548710: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-20 16:28:36 V/Net 2452548710: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-20 16:28:36 I/Net 2452548710: Successfully loaded group list: 8 in total.[0m
+[92m2022-07-20 16:28:36 I/Net 2452548710: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-20 16:28:36 I/Net 2452548710: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-20 16:28:38 I/Net 2452548710: Server list: 111.31.205.202:443, 111.30.169.83:8080, 36.155.201.156:14000, 120.232.22.229:80, msfwifi.3g.qq.com:8080, 36.155.201.42:80, 36.155.187.71:443, 120.232.69.214:80, 111.30.187.240:8080, 111.30.187.240:80.[0m
+[0m2022-07-20 16:28:38 V/Net 2452548710: Saving bdh session to cache[0m
+[0m2022-07-20 16:28:38 V/Net 2452548710: Saving server list to cache[0m
+[0m2022-07-20 16:28:38 V/Net 2452548710: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-20 16:28:38 V/Net 2452548710: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-20 16:28:38 V/Net 2452548710: Saving bdh session to cache[0m
+[0m2022-07-20 16:28:38 V/Net 2452548710: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-20 16:28:38 V/Net 2452548710: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-20 16:30:07 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:07 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:07 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:08 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:08 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:08 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:08 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:09 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:10 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:10 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:10 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:10 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:10 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:10 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:11 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:11 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:11 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:11 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:11 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:11 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:12 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:12 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:12 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:12 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:12 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:12 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:12 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:12 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:13 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:13 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:14 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:24 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:24 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:24 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:24 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:24 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:25 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:25 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:25 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:25 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:25 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:25 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:26 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:26 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:26 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:26 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:26 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:26 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:26 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:26 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:27 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:27 V/Net 2452548710: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-20 16:30:27 V/Net 2452548710: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-20 16:30:27 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:28 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:28 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:29 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:29 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:29 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:29 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:30 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:30 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:30 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:30 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:31 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:30:31 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:31 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:31 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:30:32 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:30:32 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:30:32 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-20 16:31:11 V/Net 2452548710: Send: LongConn.OffPicUp(LongConn.OffPicUp)[0m
+[0m2022-07-20 16:31:11 V/Net 2452548710: Recv: LongConn.OffPicUp[0m
+[0m2022-07-20 16:31:11 V/Net 2452548710: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-20 16:31:11 V/Net 2452548710: Recv: MessageSvc.PbSendMsg[0m
