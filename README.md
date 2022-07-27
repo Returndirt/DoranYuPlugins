@@ -1,5 +1,7 @@
-# mirai-console-plugin-template
+# 多兰语系qqbot插件 Minecraft服务器监听
 
-[Mirai Console](https://github.com/mamoe/mirai-console) 插件模板, 使用 Kotlin + Gradle.
+初次启动会生成配置文件，依据提示填写bat目录和群号
 
-[如何使用](https://github.com/project-mirai/how-to-use-plugin-template)
+在群内群管理可使用/cpm切换转发触发策略，/cdc直接输入控制台指令
+
+
