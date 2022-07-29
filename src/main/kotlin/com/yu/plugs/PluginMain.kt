@@ -97,7 +97,15 @@ object PluginMain : KotlinPlugin(
                 val ctt = bfR.readLine().toString()
                 try
                 {
-                    val cpos:Int = 33+18
+                    //[00:21:04] [Server thread/INFO]: <Citycake> 怎么开启#号键转发呢
+                    //[00:46:58] [Server thread/INFO] [Console/]: <Return_dirt> hi
+                    //[01:13:48] [Server thread/INFO]: [Server] only love miku[93]:火锅底料也可以直接吃
+                    //r
+                    //[01:13:51] [Server thread/INFO]: <Return_dirt> 半夜聊吃的是相当可以
+                    //n
+
+                    //val cpos:Int = 33+18
+                    val cpos:Int = 33
                     logger.info(ctt)
                     if(ctt.length>cpos)
                     logger.info(ctt[cpos].toString())
@@ -131,13 +139,13 @@ object PluginMain : KotlinPlugin(
 
         fun getwkDir()
         {
-            logger.info("try to find wkDir")
+            //logger.info("try to find wkDir")
             for(i in serverDir!!.length-1 downTo  0)
             {
                 if(serverDir!!.get(i) == '/' || serverDir!!.get(i) == '\\' )
                 {
                     wkDir = serverDir!!.substring(0,i)
-                    logger.info("the last / at "+i+" get wkdir as"+wkDir)
+                    //logger.info("the last / at "+i+" get wkdir as"+wkDir)
                     return
                 }
             }
@@ -178,7 +186,7 @@ object PluginMain : KotlinPlugin(
                 }
                 if(message.contentToString().startsWith("/cdc ")&&group.id == tarGroup!!.id)
                 {
-                    bfW!!.write(message.contentToString().replace("/cdc ",""))
+                    bfW!!.write(message.contentToString().replace("/cdc ","")+"\n")
                     bfW!!.flush()
                 }
             }
@@ -187,16 +195,13 @@ object PluginMain : KotlinPlugin(
             {
                 if(tarGroup!!.id == group.id)
                 {
-                    logger.info("microphone online and this message is from the target group")
+                    //logger.info("microphone online and this message is from the target group")
                     if(message.contentToString().length<50)
                     {
-                        logger.info("short enough")
+                        //logger.info("short enough")
                         if(!keyRequire)
                         {
-                            bfW!!.write("help\n")
-                            bfW!!.flush()
-
-                            logger.info("# is not required")
+                            //logger.info("# is not required")
                             bfW!!.write("say "+sender.nameCardOrNick+"["+sender.id.toString().substring(0,2)+"]:"+message.contentToString()+"\n")
                             bfW!!.flush()
                         }
@@ -204,18 +209,18 @@ object PluginMain : KotlinPlugin(
                         {
                             bfW!!.write("say "+sender.nameCardOrNick+"["+sender.id.toString().substring(0,2)+"]:"+message.contentToString().replace("#","")+"\n")
                             bfW!!.flush()
-                            logger.info("# was found")
+                            //logger.info("# was found")
                         }
                     }
                 }
             }
         }
         eventChannel.subscribeAlways<FriendMessageEvent> {
-            val c = message.contentToString()
-            for(i in 0 until c.length)
-            {
-                logger.info(i.toString()+":"+c[i])
-            }
+            //val c = message.contentToString()
+            //for(i in 0 until c.length)
+            //{
+                //logger.info(i.toString()+":"+c[i])
+            //}
         }
         eventChannel.subscribeAlways<NewFriendRequestEvent>
         {
