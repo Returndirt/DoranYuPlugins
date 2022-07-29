@@ -104,8 +104,8 @@ object PluginMain : KotlinPlugin(
                     //[01:13:51] [Server thread/INFO]: <Return_dirt> 半夜聊吃的是相当可以
                     //n
 
-                    //val cpos:Int = 33+18
-                    val cpos:Int = 33
+                    val cpos:Int = 33+18
+                    //val cpos:Int = 33
                     logger.info(ctt)
                     if(ctt.length>cpos)
                     logger.info(ctt[cpos].toString())
